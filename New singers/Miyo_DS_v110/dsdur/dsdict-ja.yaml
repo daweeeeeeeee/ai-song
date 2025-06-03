@@ -1,0 +1,740 @@
+symbols:
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
+- {symbol: cl, type: stop}
+- {symbol: en/aa, type: vowel}
+- {symbol: en/ae, type: vowel}
+- {symbol: pt/ae, type: vowel}
+- {symbol: en/ah, type: vowel}
+- {symbol: en/ao, type: vowel}
+- {symbol: en/aw, type: vowel}
+- {symbol: fr/ee, type: vowel}
+- {symbol: zh/e, type: vowel}
+- {symbol: th/E, type: vowel}
+- {symbol: en/ax, type: vowel}
+- {symbol: en/ay, type: vowel}
+- {symbol: zh/ai, type: vowel}
+- {symbol: en/b, type: stop}
+- {symbol: zh/ch, type: stop}
+- {symbol: pt/b, type: stop}
+- {symbol: ru/b, type: stop}
+- {symbol: zh/b, type: stop}
+- {symbol: ja/ch, type: stop}
+- {symbol: fr/ch, type: stop}
+- {symbol: es/b, type: stop}
+- {symbol: ko/ch, type: stop}
+- {symbol: pt/ch, type: stop}
+- {symbol: es/ch, type: stop}
+- {symbol: ko/b, type: stop}
+- {symbol: en/ch, type: stop}
+- {symbol: ja/b, type: stop}
+- {symbol: fr/b, type: stop}
+- {symbol: en/d, type: stop}
+- {symbol: es/D, type: stop}
+- {symbol: en/dh, type: stop}
+- {symbol: en/dr, type: stop}
+- {symbol: en/dx, type: stop}
+- {symbol: fr/dx, type: stop}
+- {symbol: en/eh, type: vowel}
+- {symbol: pt/eh, type: vowel}
+- {symbol: fr/ae, type: vowel}
+- {symbol: ru/e, type: vowel}
+- {symbol: en/er, type: vowel}
+- {symbol: pt/rh, type: vowel}
+- {symbol: en/ey, type: vowel}
+- {symbol: zh/ei, type: vowel}
+- {symbol: zh/f, type: stop}
+- {symbol: ko/f, type: stop}
+- {symbol: pt/f, type: stop}
+- {symbol: es/f, type: stop}
+- {symbol: ru/f, type: stop}
+- {symbol: th/f, type: stop}
+- {symbol: en/f, type: stop}
+- {symbol: fr/f, type: stop}
+- {symbol: en/g, type: stop}
+- {symbol: ko/h, type: stop}
+- {symbol: fr/h, type: stop}
+- {symbol: ru/h, type: stop}
+- {symbol: pt/h, type: stop}
+- {symbol: en/hh, type: stop}
+- {symbol: th/h, type: stop}
+- {symbol: es/h, type: stop}
+- {symbol: ja/h, type: stop}
+- {symbol: en/ih, type: vowel}
+- {symbol: es/i, type: vowel}
+- {symbol: ru/i, type: vowel}
+- {symbol: zh/i, type: vowel}
+- {symbol: fr/ih, type: vowel}
+- {symbol: en/iy, type: vowel}
+- {symbol: th/i, type: vowel}
+- {symbol: ko/i, type: vowel}
+- {symbol: pt/i, type: vowel}
+- {symbol: ja/i, type: vowel}
+- {symbol: ko/jj, type: stop}
+- {symbol: en/jh, type: stop}
+- {symbol: pt/dj, type: stop}
+- {symbol: zh/zh, type: stop}
+- {symbol: en/k, type: stop}
+- {symbol: fr/k, type: stop}
+- {symbol: zh/k, type: stop}
+- {symbol: th/k, type: stop}
+- {symbol: ko/k, type: stop}
+- {symbol: en/l, type: liquid}
+- {symbol: ru/m, type: nasal}
+- {symbol: es/m, type: nasal}
+- {symbol: fr/m, type: nasal}
+- {symbol: pt/m, type: nasal}
+- {symbol: en/m, type: nasal}
+- {symbol: ja/m, type: nasal}
+- {symbol: th/m, type: nasal}
+- {symbol: ko/m, type: nasal}
+- {symbol: zh/m, type: nasal}
+- {symbol: th/n, type: nasal}
+- {symbol: ru/n, type: nasal}
+- {symbol: en/n, type: nasal}
+- {symbol: zh/n, type: nasal}
+- {symbol: pt/n, type: nasal}
+- {symbol: fr/n, type: nasal}
+- {symbol: es/n, type: nasal}
+- {symbol: ja/n, type: nasal}
+- {symbol: ko/n, type: nasal}
+- {symbol: th/ng, type: nasal}
+- {symbol: en/ng, type: nasal}
+- {symbol: ja/ng, type: nasal}
+- {symbol: zh/ng, type: nasal}
+- {symbol: fr/ng, type: nasal}
+- {symbol: ko/NG, type: nasal}
+- {symbol: en/nn, type: vowel}
+- {symbol: ja/N, type: vowel}
+- {symbol: en/ow, type: vowel}
+- {symbol: zh/ou, type: vowel}
+- {symbol: en/oy, type: vowel}
+- {symbol: zh/p, type: stop}
+- {symbol: en/p, type: stop}
+- {symbol: ko/p, type: stop}
+- {symbol: th/p, type: stop}
+- {symbol: es/q, type: stop}
+- {symbol: fr/q, type: stop}
+- {symbol: en/q, type: stop}
+- {symbol: fr/rh, type: liquid}
+- {symbol: en/r, type: liquid}
+- {symbol: ja/s, type: stop}
+- {symbol: ru/s, type: stop}
+- {symbol: th/s, type: stop}
+- {symbol: fr/s, type: stop}
+- {symbol: en/s, type: stop}
+- {symbol: pt/s, type: stop}
+- {symbol: ko/ss, type: stop}
+- {symbol: es/s, type: stop}
+- {symbol: zh/s, type: stop}
+- {symbol: ja/sh, type: stop}
+- {symbol: th/ch, type: stop}
+- {symbol: ru/sh, type: stop}
+- {symbol: en/sh, type: stop}
+- {symbol: fr/sh, type: stop}
+- {symbol: pt/sh, type: stop}
+- {symbol: zh/sh, type: stop}
+- {symbol: en/t, type: stop}
+- {symbol: ko/t, type: stop}
+- {symbol: zh/t, type: stop}
+- {symbol: th/t, type: stop}
+- {symbol: en/th, type: stop}
+- {symbol: es/T, type: stop}
+- {symbol: ko/th, type: stop}
+- {symbol: en/tr, type: stop}
+- {symbol: en/uh, type: vowel}
+- {symbol: en/uw, type: vowel}
+- {symbol: en/v, type: stop}
+- {symbol: pt/v, type: stop}
+- {symbol: th/v, type: stop}
+- {symbol: fr/v, type: stop}
+- {symbol: ru/v, type: stop}
+- {symbol: ja/v, type: stop}
+- {symbol: es/v, type: stop}
+- {symbol: ko/v, type: stop}
+- {symbol: en/w, type: semivowel}
+- {symbol: zh/w, type: semivowel}
+- {symbol: th/w, type: semivowel}
+- {symbol: ko/w, type: semivowel}
+- {symbol: fr/w, type: semivowel}
+- {symbol: es/w, type: semivowel}
+- {symbol: pt/w, type: semivowel}
+- {symbol: ja/w, type: semivowel}
+- {symbol: pt/y, type: semivowel}
+- {symbol: ja/y, type: semivowel}
+- {symbol: fr/y, type: semivowel}
+- {symbol: en/y, type: semivowel}
+- {symbol: zh/y, type: semivowel}
+- {symbol: ko/y, type: semivowel}
+- {symbol: th/y, type: semivowel}
+- {symbol: es/y, type: semivowel}
+- {symbol: ru/j, type: stop}
+- {symbol: ru/z, type: stop}
+- {symbol: en/z, type: stop}
+- {symbol: th/z, type: stop}
+- {symbol: ko/z, type: stop}
+- {symbol: fr/z, type: stop}
+- {symbol: pt/z, type: stop}
+- {symbol: en/zh, type: stop}
+- {symbol: ru/zh, type: stop}
+- {symbol: fr/j, type: stop}
+- {symbol: pt/j, type: stop}
+- {symbol: es/B, type: stop}
+- {symbol: pt/bv, type: stop}
+- {symbol: es/G, type: stop}
+- {symbol: pt/gv, type: stop}
+- {symbol: es/Y, type: semivowel}
+- {symbol: th/a, type: vowel}
+- {symbol: fr/ah, type: vowel}
+- {symbol: ja/a, type: vowel}
+- {symbol: ru/a, type: vowel}
+- {symbol: zh/a, type: vowel}
+- {symbol: ko/a, type: vowel}
+- {symbol: pt/a, type: vowel}
+- {symbol: es/a, type: vowel}
+- {symbol: ja/d, type: stop}
+- {symbol: fr/d, type: stop}
+- {symbol: es/d, type: stop}
+- {symbol: fr/t, type: stop}
+- {symbol: es/t, type: stop}
+- {symbol: zh/d, type: stop}
+- {symbol: ko/tt, type: stop}
+- {symbol: ru/t, type: stop}
+- {symbol: pt/t, type: stop}
+- {symbol: th/tt, type: stop}
+- {symbol: ja/t, type: stop}
+- {symbol: ja/z, type: stop}
+- {symbol: es/dz, type: stop}
+- {symbol: zh/z, type: stop}
+- {symbol: ja/e, type: vowel}
+- {symbol: es/e, type: vowel}
+- {symbol: fr/eh, type: vowel}
+- {symbol: pt/e, type: vowel}
+- {symbol: es/ee, type: vowel}
+- {symbol: es/g, type: stop}
+- {symbol: fr/g, type: stop}
+- {symbol: zh/g, type: stop}
+- {symbol: ko/g, type: stop}
+- {symbol: ja/g, type: stop}
+- {symbol: es/gl, type: stop}
+- {symbol: es/gn, type: stop}
+- {symbol: es/j, type: stop}
+- {symbol: ru/k, type: stop}
+- {symbol: th/kk, type: stop}
+- {symbol: ko/kk, type: stop}
+- {symbol: es/k, type: stop}
+- {symbol: ja/k, type: stop}
+- {symbol: pt/k, type: stop}
+- {symbol: es/l, type: liquid}
+- {symbol: es/ly, type: liquid}
+- {symbol: ru/lj, type: liquid}
+- {symbol: fr/ly, type: liquid}
+- {symbol: ru/nj, type: nasal}
+- {symbol: es/ny, type: nasal}
+- {symbol: fr/oh, type: vowel}
+- {symbol: th/o, type: vowel}
+- {symbol: ko/o, type: vowel}
+- {symbol: ja/o, type: vowel}
+- {symbol: es/o, type: vowel}
+- {symbol: ru/o, type: vowel}
+- {symbol: es/oo, type: vowel}
+- {symbol: ru/p, type: stop}
+- {symbol: th/pp, type: stop}
+- {symbol: ja/p, type: stop}
+- {symbol: ko/pp, type: stop}
+- {symbol: pt/p, type: stop}
+- {symbol: fr/p, type: stop}
+- {symbol: es/p, type: stop}
+- {symbol: ko/RR, type: liquid}
+- {symbol: pt/r, type: liquid}
+- {symbol: fr/rx, type: liquid}
+- {symbol: es/r, type: stop}
+- {symbol: ru/r, type: stop}
+- {symbol: es/rr, type: stop}
+- {symbol: fr/rr, type: stop}
+- {symbol: es/sh, type: stop}
+- {symbol: es/th, type: stop}
+- {symbol: zh/c, type: stop}
+- {symbol: ja/ts, type: stop}
+- {symbol: es/ts, type: stop}
+- {symbol: pt/u, type: vowel}
+- {symbol: es/u, type: vowel}
+- {symbol: ko/u, type: vowel}
+- {symbol: fr/ou, type: vowel}
+- {symbol: ru/u, type: vowel}
+- {symbol: zh/u, type: vowel}
+- {symbol: th/u, type: vowel}
+- {symbol: es/uu, type: vowel}
+- {symbol: es/x, type: stop}
+- {symbol: es/z, type: stop}
+- {symbol: fr/en, type: vowel}
+- {symbol: fr/in, type: vowel}
+- {symbol: fr/l, type: liquid}
+- {symbol: fr/oe, type: vowel}
+- {symbol: fr/on, type: vowel}
+- {symbol: fr/oo, type: vowel}
+- {symbol: pt/oh, type: vowel}
+- {symbol: fr/r, type: stop}
+- {symbol: zh/v, type: vowel}
+- {symbol: fr/uh, type: vowel}
+- {symbol: fr/un, type: vowel}
+- {symbol: fr/uy, type: vowel}
+- {symbol: ja/f, type: stop}
+- {symbol: ja/j, type: stop}
+- {symbol: ja/l, type: liquid}
+- {symbol: ja/r, type: stop}
+- {symbol: ko/r, type: stop}
+- {symbol: ja/u, type: vowel}
+- {symbol: ko/K, type: stop}
+- {symbol: th/K, type: stop}
+- {symbol: ko/L, type: liquid}
+- {symbol: ko/M, type: nasal}
+- {symbol: ko/N, type: nasal}
+- {symbol: th/B, type: stop}
+- {symbol: ko/P, type: stop}
+- {symbol: th/D, type: stop}
+- {symbol: ko/T, type: stop}
+- {symbol: ko/d, type: stop}
+- {symbol: ko/e, type: vowel}
+- {symbol: ko/ei, type: vowel}
+- {symbol: ko/eo, type: vowel}
+- {symbol: ko/eu, type: vowel}
+- {symbol: ko/j, type: stop}
+- {symbol: ko/l, type: liquid}
+- {symbol: ko/r1, type: liquid}
+- {symbol: ko/s, type: stop}
+- {symbol: ko/sh, type: stop}
+- {symbol: ko/w1, type: semivowel}
+- {symbol: pt/an, type: vowel}
+- {symbol: pt/ax, type: vowel}
+- {symbol: pt/d, type: stop}
+- {symbol: pt/en, type: vowel}
+- {symbol: pt/g, type: stop}
+- {symbol: pt/hr, type: stop}
+- {symbol: pt/i0, type: vowel}
+- {symbol: pt/in, type: vowel}
+- {symbol: pt/l, type: liquid}
+- {symbol: pt/lh, type: liquid}
+- {symbol: pt/ng, type: nasal}
+- {symbol: pt/nh, type: nasal}
+- {symbol: pt/o, type: vowel}
+- {symbol: pt/on, type: vowel}
+- {symbol: pt/rr, type: stop}
+- {symbol: pt/rw, type: liquid}
+- {symbol: pt/u0, type: vowel}
+- {symbol: pt/un, type: vowel}
+- {symbol: pt/x, type: stop}
+- {symbol: ru/A, type: vowel}
+- {symbol: ru/E, type: vowel}
+- {symbol: ru/N, type: nasal}
+- {symbol: ru/Y, type: vowel}
+- {symbol: ru/bj, type: stop}
+- {symbol: ru/c, type: stop}
+- {symbol: ru/ch, type: stop}
+- {symbol: ru/d, type: stop}
+- {symbol: ru/dj, type: stop}
+- {symbol: ru/fj, type: stop}
+- {symbol: ru/g, type: stop}
+- {symbol: ru/gj, type: stop}
+- {symbol: ru/hh, type: stop}
+- {symbol: ru/hj, type: stop}
+- {symbol: ru/kj, type: stop}
+- {symbol: ru/l, type: liquid}
+- {symbol: ru/mj, type: nasal}
+- {symbol: ru/pj, type: stop}
+- {symbol: ru/rj, type: stop}
+- {symbol: ru/shj, type: stop}
+- {symbol: ru/sj, type: stop}
+- {symbol: ru/tj, type: stop}
+- {symbol: ru/vj, type: stop}
+- {symbol: ru/y, type: vowel}
+- {symbol: ru/zj, type: stop}
+- {symbol: th/A, type: vowel}
+- {symbol: th/I, type: vowel}
+- {symbol: th/O, type: vowel}
+- {symbol: th/U, type: vowel}
+- {symbol: th/Ua, type: vowel}
+- {symbol: th/W, type: semivowel}
+- {symbol: zh/U, type: semivowel}
+- {symbol: zh/I, type: semivowel}
+- {symbol: th/Y, type: semivowel}
+- {symbol: th/ao, type: vowel}
+- {symbol: th/b, type: stop}
+- {symbol: th/d, type: stop}
+- {symbol: th/e, type: vowel}
+- {symbol: th/ia, type: vowel}
+- {symbol: th/j, type: stop}
+- {symbol: th/l, type: liquid}
+- {symbol: th/r, type: liquid}
+- {symbol: th/ua, type: vowel}
+- {symbol: vf, type: stop}
+- {symbol: zh/N, type: nasal}
+- {symbol: zh/ao, type: vowel}
+- {symbol: zh/er, type: vowel}
+- {symbol: zh/h, type: stop}
+- {symbol: zh/iE, type: vowel}
+- {symbol: zh/ia, type: vowel}
+- {symbol: zh/io, type: vowel}
+- {symbol: zh/ir, type: vowel}
+- {symbol: zh/iz, type: vowel}
+- {symbol: zh/j, type: stop}
+- {symbol: zh/l, type: liquid}
+- {symbol: zh/o, type: vowel}
+- {symbol: zh/q, type: stop}
+- {symbol: zh/r, type: liquid}
+- {symbol: zh/uE, type: vowel}
+- {symbol: zh/ua, type: vowel}
+- {symbol: zh/ue, type: vowel}
+- {symbol: zh/uo, type: vowel}
+- {symbol: zh/vE, type: vowel}
+- {symbol: zh/x, type: stop}
+- {symbol: de/a, type: vowel}
+- {symbol: de/eh, type: vowel}
+- {symbol: de/e, type: vowel}
+- {symbol: de/ih, type: vowel}
+- {symbol: de/i, type: vowel}
+- {symbol: de/oh, type: vowel}
+- {symbol: de/o, type: vowel}
+- {symbol: de/oe, type: vowel}
+- {symbol: de/oeh, type: vowel}
+- {symbol: de/uh, type: vowel}
+- {symbol: de/u, type: vowel}
+- {symbol: de/ueh, type: vowel}
+- {symbol: de/ue, type: vowel}
+- {symbol: de/ex, type: vowel}
+- {symbol: de/er, type: vowel}
+- {symbol: de/au, type: vowel}
+- {symbol: de/ei, type: vowel}
+- {symbol: de/eu, type: vowel}
+- {symbol: de/j, type: semivowel}
+- {symbol: de/l, type: liquid}
+- {symbol: de/m, type: nasal}
+- {symbol: de/n, type: nasal}
+- {symbol: de/ng, type: nasal}
+- {symbol: de/b, type: stop}
+- {symbol: de/d, type: stop}
+- {symbol: de/g, type: stop}
+- {symbol: de/p, type: stop}
+- {symbol: de/t, type: stop}
+- {symbol: de/ts, type: stop}
+- {symbol: de/k, type: stop}
+- {symbol: de/v, type: stop}
+- {symbol: de/z, type: stop}
+- {symbol: de/r, type: stop}
+- {symbol: de/f, type: stop}
+- {symbol: de/s, type: stop}
+- {symbol: de/sh, type: stop}
+- {symbol: de/h, type: stop}
+- {symbol: de/xh, type: stop}
+- {symbol: de/tsh, type: stop}
+- {symbol: de/dsh, type: stop}
+- {symbol: de/rr, type: stop}
+- {symbol: de/rx, type: stop}
+- {symbol: de/ch, type: stop}
+- {symbol: de/q, type: stop}
+- {symbol: de/w, type: semivowel}
+- {symbol: de/rh, type: stop}
+- {symbol: de/dh, type: stop}
+- {symbol: de/zh, type: stop}
+- {symbol: en/oh, type: vowel}
+entries:
+- {grapheme: "R", phonemes: [SP]}
+- {grapheme: "-", phonemes: [SP]}
+- {grapheme: "br", phonemes: [AP]}
+- {grapheme: あ, phonemes: [ja/a]}
+- {grapheme: い, phonemes: [ja/i]}
+- {grapheme: う, phonemes: [ja/u]}
+- {grapheme: え, phonemes: [ja/e]}
+- {grapheme: お, phonemes: [ja/o]}
+- {grapheme: か, phonemes: [ja/k, ja/a]}
+- {grapheme: き, phonemes: [ja/k, ja/i]}
+- {grapheme: く, phonemes: [ja/k, ja/u]}
+- {grapheme: け, phonemes: [ja/k, ja/e]}
+- {grapheme: こ, phonemes: [ja/k, ja/o]}
+- {grapheme: きゃ, phonemes: [ja/k, ja/y, ja/a]}
+- {grapheme: きゅ, phonemes: [ja/k, ja/y, ja/u]}
+- {grapheme: きぇ, phonemes: [ja/k, ja/y, ja/e]}
+- {grapheme: きょ, phonemes: [ja/k, ja/y, ja/o]}
+- {grapheme: が, phonemes: [ja/g, ja/a]}
+- {grapheme: ぎ, phonemes: [ja/g, ja/i]}
+- {grapheme: ぐ, phonemes: [ja/g, ja/u]}
+- {grapheme: げ, phonemes: [ja/g, ja/e]}
+- {grapheme: ご, phonemes: [ja/g, ja/o]}
+- {grapheme: ぎゃ, phonemes: [ja/g, ja/y, ja/a]}
+- {grapheme: ぎゅ, phonemes: [ja/g, ja/y, ja/u]}
+- {grapheme: ぎぇ, phonemes: [ja/g, ja/y, ja/e]}
+- {grapheme: ぎょ, phonemes: [ja/g, ja/y, ja/o]}
+- {grapheme: か゜, phonemes: [ja/ng, ja/a]}
+- {grapheme: き゜, phonemes: [ja/ng, ja/i]}
+- {grapheme: く゜, phonemes: [ja/ng, ja/u]}
+- {grapheme: け゜, phonemes: [ja/ng, ja/e]}
+- {grapheme: こ゜, phonemes: [ja/ng, ja/o]}
+- {grapheme: き゜ゃ, phonemes: [ja/ng, ja/y, ja/a]}
+- {grapheme: き゜ゅ, phonemes: [ja/ng, ja/y, ja/u]}
+- {grapheme: き゜ぇ, phonemes: [ja/ng, ja/y, ja/e]}
+- {grapheme: き゜ょ, phonemes: [ja/ng, ja/y, ja/o]}
+- {grapheme: さ, phonemes: [ja/s, ja/a]}
+- {grapheme: すぃ, phonemes: [ja/s, ja/i]}
+- {grapheme: す, phonemes: [ja/s, ja/u]}
+- {grapheme: せ, phonemes: [ja/s, ja/e]}
+- {grapheme: そ, phonemes: [ja/s, ja/o]}
+- {grapheme: ざ, phonemes: [ja/z, ja/a]}
+- {grapheme: ずぃ, phonemes: [ja/z, ja/i]}
+- {grapheme: ず, phonemes: [ja/z, ja/u]}
+- {grapheme: ぜ, phonemes: [ja/z, ja/e]}
+- {grapheme: ぞ, phonemes: [ja/z, ja/o]}
+- {grapheme: しゃ, phonemes: [ja/sh, ja/a]}
+- {grapheme: し, phonemes: [ja/sh, ja/i]}
+- {grapheme: しゅ, phonemes: [ja/sh, ja/u]}
+- {grapheme: しぇ, phonemes: [ja/sh, ja/e]}
+- {grapheme: しょ, phonemes: [ja/sh, ja/o]}
+- {grapheme: じゃ, phonemes: [ja/j, ja/a]}
+- {grapheme: じ, phonemes: [ja/j, ja/i]}
+- {grapheme: じゅ, phonemes: [ja/j, ja/u]}
+- {grapheme: じぇ, phonemes: [ja/j, ja/e]}
+- {grapheme: じょ, phonemes: [ja/j, ja/o]}
+- {grapheme: た, phonemes: [ja/t, ja/a]}
+- {grapheme: てぃ, phonemes: [ja/t, ja/i]}
+- {grapheme: とぅ, phonemes: [ja/t, ja/u]}
+- {grapheme: て, phonemes: [ja/t, ja/e]}
+- {grapheme: と, phonemes: [ja/t, ja/o]}
+- {grapheme: だ, phonemes: [ja/d, ja/a]}
+- {grapheme: でぃ, phonemes: [ja/d, ja/i]}
+- {grapheme: どぅ, phonemes: [ja/d, ja/u]}
+- {grapheme: で, phonemes: [ja/d, ja/e]}
+- {grapheme: ど, phonemes: [ja/d, ja/o]}
+- {grapheme: ちゃ, phonemes: [ja/ch, ja/a]}
+- {grapheme: ち, phonemes: [ja/ch, ja/i]}
+- {grapheme: ちゅ, phonemes: [ja/ch, ja/u]}
+- {grapheme: ちぇ, phonemes: [ja/ch, ja/e]}
+- {grapheme: ちょ, phonemes: [ja/ch, ja/o]}
+- {grapheme: つぁ, phonemes: [ja/ts, ja/a]}
+- {grapheme: つぃ, phonemes: [ja/ts, ja/i]}
+- {grapheme: つ, phonemes: [ja/ts, ja/u]}
+- {grapheme: つぇ, phonemes: [ja/ts, ja/e]}
+- {grapheme: つぉ, phonemes: [ja/ts, ja/o]}
+- {grapheme: な, phonemes: [ja/n, ja/a]}
+- {grapheme: に, phonemes: [ja/n, ja/i]}
+- {grapheme: ぬ, phonemes: [ja/n, ja/u]}
+- {grapheme: ね, phonemes: [ja/n, ja/e]}
+- {grapheme: の, phonemes: [ja/n, ja/o]}
+- {grapheme: にゃ, phonemes: [ja/n, ja/y, ja/a]}
+- {grapheme: にゅ, phonemes: [ja/n, ja/y, ja/u]}
+- {grapheme: にぇ, phonemes: [ja/n, ja/y, ja/e]}
+- {grapheme: にょ, phonemes: [ja/n, ja/y, ja/o]}
+- {grapheme: は, phonemes: [ja/h, ja/a]}
+- {grapheme: ひ, phonemes: [ja/h, ja/i]}
+- {grapheme: ほぅ, phonemes: [ja/h, ja/u]}
+- {grapheme: へ, phonemes: [ja/h, ja/e]}
+- {grapheme: ほ, phonemes: [ja/h, ja/o]}
+- {grapheme: ひゃ, phonemes: [ja/h, ja/y, ja/a]}
+- {grapheme: ひゅ, phonemes: [ja/h, ja/y, ja/u]}
+- {grapheme: ひぇ, phonemes: [ja/h, ja/y, ja/e]}
+- {grapheme: ひょ, phonemes: [ja/h, ja/y, ja/o]}
+- {grapheme: ふぁ, phonemes: [ja/f, ja/a]}
+- {grapheme: ふぃ, phonemes: [ja/f, ja/i]}
+- {grapheme: ふ, phonemes: [ja/f, ja/u]}
+- {grapheme: ふぇ, phonemes: [ja/f, ja/e]}
+- {grapheme: ふぉ, phonemes: [ja/f, ja/o]}
+- {grapheme: ふゃ, phonemes: [ja/f, ja/y, ja/a]}
+- {grapheme: ふゅ, phonemes: [ja/f, ja/y, ja/u]}
+- {grapheme: ふょ, phonemes: [ja/f, ja/y, ja/o]}
+- {grapheme: ば, phonemes: [ja/b, ja/a]}
+- {grapheme: び, phonemes: [ja/b, ja/i]}
+- {grapheme: ぶ, phonemes: [ja/b, ja/u]}
+- {grapheme: べ, phonemes: [ja/b, ja/e]}
+- {grapheme: ぼ, phonemes: [ja/b, ja/o]}
+- {grapheme: びゃ, phonemes: [ja/b, ja/y, ja/a]}
+- {grapheme: びゅ, phonemes: [ja/b, ja/y, ja/u]}
+- {grapheme: びぇ, phonemes: [ja/b, ja/y, ja/e]}
+- {grapheme: びょ, phonemes: [ja/b, ja/y, ja/o]}
+- {grapheme: ぱ, phonemes: [ja/p, ja/a]}
+- {grapheme: ぴ, phonemes: [ja/p, ja/i]}
+- {grapheme: ぷ, phonemes: [ja/p, ja/u]}
+- {grapheme: ぺ, phonemes: [ja/p, ja/e]}
+- {grapheme: ぽ, phonemes: [ja/p, ja/o]}
+- {grapheme: ぴゃ, phonemes: [ja/p, ja/y, ja/a]}
+- {grapheme: ぴゅ, phonemes: [ja/p, ja/y, ja/u]}
+- {grapheme: ぴぇ, phonemes: [ja/p, ja/y, ja/e]}
+- {grapheme: ぴょ, phonemes: [ja/p, ja/y, ja/o]}
+- {grapheme: ま, phonemes: [ja/m, ja/a]}
+- {grapheme: み, phonemes: [ja/m, ja/i]}
+- {grapheme: む, phonemes: [ja/m, ja/u]}
+- {grapheme: め, phonemes: [ja/m, ja/e]}
+- {grapheme: も, phonemes: [ja/m, ja/o]}
+- {grapheme: みゃ, phonemes: [ja/m, ja/y, ja/a]}
+- {grapheme: みゅ, phonemes: [ja/m, ja/y, ja/u]}
+- {grapheme: みぇ, phonemes: [ja/m, ja/y, ja/e]}
+- {grapheme: みょ, phonemes: [ja/m, ja/y, ja/o]}
+- {grapheme: や, phonemes: [ja/y, ja/a]}
+- {grapheme: いぃ, phonemes: [ja/y, ja/i]}
+- {grapheme: ゆ, phonemes: [ja/y, ja/u]}
+- {grapheme: いぇ, phonemes: [ja/y, ja/e]}
+- {grapheme: よ, phonemes: [ja/y, ja/o]}
+- {grapheme: ら, phonemes: [ja/r, ja/a]}
+- {grapheme: り, phonemes: [ja/r, ja/i]}
+- {grapheme: る, phonemes: [ja/r, ja/u]}
+- {grapheme: れ, phonemes: [ja/r, ja/e]}
+- {grapheme: ろ, phonemes: [ja/r, ja/o]}
+- {grapheme: りゃ, phonemes: [ja/r, ja/y, ja/a]}
+- {grapheme: りゅ, phonemes: [ja/r, ja/y, ja/u]}
+- {grapheme: りぇ, phonemes: [ja/r, ja/y, ja/e]}
+- {grapheme: りょ, phonemes: [ja/r, ja/y, ja/o]}
+- {grapheme: わ, phonemes: [ja/w, ja/a]}
+- {grapheme: うぃ, phonemes: [ja/w, ja/i]}
+- {grapheme: うぅ, phonemes: [ja/w, ja/u]}
+- {grapheme: うぇ, phonemes: [ja/w, ja/e]}
+- {grapheme: うぉ, phonemes: [ja/w, ja/o]}
+- {grapheme: ん, phonemes: [ja/N]}
+- {grapheme: を, phonemes: [ja/w, ja/o]}
+- {grapheme: っ, phonemes: [cl]}
+- {grapheme: a, phonemes: [ja/a]}
+- {grapheme: i, phonemes: [ja/i]}
+- {grapheme: u, phonemes: [ja/u]}
+- {grapheme: e, phonemes: [ja/e]}
+- {grapheme: o, phonemes: [ja/o]}
+- {grapheme: ka, phonemes: [ja/k, ja/a]}
+- {grapheme: ki, phonemes: [ja/k, ja/i]}
+- {grapheme: ku, phonemes: [ja/k, ja/u]}
+- {grapheme: ke, phonemes: [ja/k, ja/e]}
+- {grapheme: ko, phonemes: [ja/k, ja/o]}
+- {grapheme: kya, phonemes: [ja/k, ja/y, ja/a]}
+- {grapheme: kyu, phonemes: [ja/k, ja/y, ja/u]}
+- {grapheme: kye, phonemes: [ja/k, ja/y, ja/e]}
+- {grapheme: kyo, phonemes: [ja/k, ja/y, ja/o]}
+- {grapheme: ga, phonemes: [ja/g, ja/a]}
+- {grapheme: gi, phonemes: [ja/g, ja/i]}
+- {grapheme: gu, phonemes: [ja/g, ja/u]}
+- {grapheme: ge, phonemes: [ja/g, ja/e]}
+- {grapheme: go, phonemes: [ja/g, ja/o]}
+- {grapheme: gya, phonemes: [ja/g, ja/y, ja/a]}
+- {grapheme: gyu, phonemes: [ja/g, ja/y, ja/u]}
+- {grapheme: gye, phonemes: [ja/g, ja/y, ja/e]}
+- {grapheme: gyo, phonemes: [ja/g, ja/y, ja/o]}
+- {grapheme: nga, phonemes: [ja/ng, ja/a]}
+- {grapheme: ngi, phonemes: [ja/ng, ja/i]}
+- {grapheme: ngu, phonemes: [ja/ng, ja/u]}
+- {grapheme: nge, phonemes: [ja/ng, ja/e]}
+- {grapheme: ngo, phonemes: [ja/ng, ja/o]}
+- {grapheme: ngya, phonemes: [ja/ng, ja/y, ja/a]}
+- {grapheme: ngyu, phonemes: [ja/ng, ja/y, ja/u]}
+- {grapheme: ngye, phonemes: [ja/ng, ja/y, ja/e]}
+- {grapheme: ngyo, phonemes: [ja/ng, ja/y, ja/o]}
+- {grapheme: sa, phonemes: [ja/s, ja/a]}
+- {grapheme: si, phonemes: [ja/s, ja/i]}
+- {grapheme: su, phonemes: [ja/s, ja/u]}
+- {grapheme: se, phonemes: [ja/s, ja/e]}
+- {grapheme: so, phonemes: [ja/s, ja/o]}
+- {grapheme: za, phonemes: [ja/z, ja/a]}
+- {grapheme: zi, phonemes: [ja/z, ja/i]}
+- {grapheme: zu, phonemes: [ja/z, ja/u]}
+- {grapheme: ze, phonemes: [ja/z, ja/e]}
+- {grapheme: zo, phonemes: [ja/z, ja/o]}
+- {grapheme: sha, phonemes: [ja/sh, ja/a]}
+- {grapheme: shi, phonemes: [ja/sh, ja/i]}
+- {grapheme: shu, phonemes: [ja/sh, ja/u]}
+- {grapheme: she, phonemes: [ja/sh, ja/e]}
+- {grapheme: sho, phonemes: [ja/sh, ja/o]}
+- {grapheme: ja, phonemes: [ja/j, ja/a]}
+- {grapheme: ji, phonemes: [ja/j, ja/i]}
+- {grapheme: ju, phonemes: [ja/j, ja/u]}
+- {grapheme: je, phonemes: [ja/j, ja/e]}
+- {grapheme: jo, phonemes: [ja/j, ja/o]}
+- {grapheme: ta, phonemes: [ja/t, ja/a]}
+- {grapheme: ti, phonemes: [ja/t, ja/i]}
+- {grapheme: tu, phonemes: [ja/t, ja/u]}
+- {grapheme: te, phonemes: [ja/t, ja/e]}
+- {grapheme: to, phonemes: [ja/t, ja/o]}
+- {grapheme: da, phonemes: [ja/d, ja/a]}
+- {grapheme: di, phonemes: [ja/d, ja/i]}
+- {grapheme: du, phonemes: [ja/d, ja/u]}
+- {grapheme: de, phonemes: [ja/d, ja/e]}
+- {grapheme: do, phonemes: [ja/d, ja/o]}
+- {grapheme: cha, phonemes: [ja/ch, ja/a]}
+- {grapheme: chi, phonemes: [ja/ch, ja/i]}
+- {grapheme: chu, phonemes: [ja/ch, ja/u]}
+- {grapheme: che, phonemes: [ja/ch, ja/e]}
+- {grapheme: cho, phonemes: [ja/ch, ja/o]}
+- {grapheme: tsa, phonemes: [ja/ts, ja/a]}
+- {grapheme: tsi, phonemes: [ja/ts, ja/i]}
+- {grapheme: tsu, phonemes: [ja/ts, ja/u]}
+- {grapheme: tse, phonemes: [ja/ts, ja/e]}
+- {grapheme: tso, phonemes: [ja/ts, ja/o]}
+- {grapheme: na, phonemes: [ja/n, ja/a]}
+- {grapheme: ni, phonemes: [ja/n, ja/i]}
+- {grapheme: nu, phonemes: [ja/n, ja/u]}
+- {grapheme: ne, phonemes: [ja/n, ja/e]}
+- {grapheme: no, phonemes: [ja/n, ja/o]}
+- {grapheme: nya, phonemes: [ja/n, ja/y, ja/a]}
+- {grapheme: nyu, phonemes: [ja/n, ja/y, ja/u]}
+- {grapheme: nye, phonemes: [ja/n, ja/y, ja/e]}
+- {grapheme: nyo, phonemes: [ja/n, ja/y, ja/o]}
+- {grapheme: ha, phonemes: [ja/h, ja/a]}
+- {grapheme: hi, phonemes: [ja/h, ja/i]}
+- {grapheme: hu, phonemes: [ja/h, ja/u]}
+- {grapheme: he, phonemes: [ja/h, ja/e]}
+- {grapheme: ho, phonemes: [ja/h, ja/o]}
+- {grapheme: hya, phonemes: [ja/h, ja/y, ja/a]}
+- {grapheme: hyu, phonemes: [ja/h, ja/y, ja/u]}
+- {grapheme: hye, phonemes: [ja/h, ja/y, ja/e]}
+- {grapheme: hyo, phonemes: [ja/h, ja/y, ja/o]}
+- {grapheme: fa, phonemes: [ja/f, ja/a]}
+- {grapheme: fi, phonemes: [ja/f, ja/i]}
+- {grapheme: fu, phonemes: [ja/f, ja/u]}
+- {grapheme: fe, phonemes: [ja/f, ja/e]}
+- {grapheme: fo, phonemes: [ja/f, ja/o]}
+- {grapheme: fya, phonemes: [ja/f, ja/y, ja/a]}
+- {grapheme: fyu, phonemes: [ja/f, ja/y, ja/u]}
+- {grapheme: fyo, phonemes: [ja/f, ja/y, ja/o]}
+- {grapheme: ba, phonemes: [ja/b, ja/a]}
+- {grapheme: bi, phonemes: [ja/b, ja/i]}
+- {grapheme: bu, phonemes: [ja/b, ja/u]}
+- {grapheme: be, phonemes: [ja/b, ja/e]}
+- {grapheme: bo, phonemes: [ja/b, ja/o]}
+- {grapheme: bya, phonemes: [ja/b, ja/y, ja/a]}
+- {grapheme: byu, phonemes: [ja/b, ja/y, ja/u]}
+- {grapheme: bye, phonemes: [ja/b, ja/y, ja/e]}
+- {grapheme: byo, phonemes: [ja/b, ja/y, ja/o]}
+- {grapheme: pa, phonemes: [ja/p, ja/a]}
+- {grapheme: pi, phonemes: [ja/p, ja/i]}
+- {grapheme: pu, phonemes: [ja/p, ja/u]}
+- {grapheme: pe, phonemes: [ja/p, ja/e]}
+- {grapheme: po, phonemes: [ja/p, ja/o]}
+- {grapheme: pya, phonemes: [ja/p, ja/y, ja/a]}
+- {grapheme: pyu, phonemes: [ja/p, ja/y, ja/u]}
+- {grapheme: pye, phonemes: [ja/p, ja/y, ja/e]}
+- {grapheme: pyo, phonemes: [ja/p, ja/y, ja/o]}
+- {grapheme: ma, phonemes: [ja/m, ja/a]}
+- {grapheme: mi, phonemes: [ja/m, ja/i]}
+- {grapheme: mu, phonemes: [ja/m, ja/u]}
+- {grapheme: me, phonemes: [ja/m, ja/e]}
+- {grapheme: mo, phonemes: [ja/m, ja/o]}
+- {grapheme: mya, phonemes: [ja/m, ja/y, ja/a]}
+- {grapheme: myu, phonemes: [ja/m, ja/y, ja/u]}
+- {grapheme: mye, phonemes: [ja/m, ja/y, ja/e]}
+- {grapheme: myo, phonemes: [ja/m, ja/y, ja/o]}
+- {grapheme: ya, phonemes: [ja/y, ja/a]}
+- {grapheme: yi, phonemes: [ja/y, ja/i]}
+- {grapheme: yu, phonemes: [ja/y, ja/u]}
+- {grapheme: ye, phonemes: [ja/y, ja/e]}
+- {grapheme: yo, phonemes: [ja/y, ja/o]}
+- {grapheme: ra, phonemes: [ja/r, ja/a]}
+- {grapheme: ri, phonemes: [ja/r, ja/i]}
+- {grapheme: ru, phonemes: [ja/r, ja/u]}
+- {grapheme: re, phonemes: [ja/r, ja/e]}
+- {grapheme: ro, phonemes: [ja/r, ja/o]}
+- {grapheme: rya, phonemes: [ja/r, ja/y, ja/a]}
+- {grapheme: ryu, phonemes: [ja/r, ja/y, ja/u]}
+- {grapheme: rye, phonemes: [ja/r, ja/y, ja/e]}
+- {grapheme: ryo, phonemes: [ja/r, ja/y, ja/o]}
+- {grapheme: wa, phonemes: [ja/w, ja/a]}
+- {grapheme: wi, phonemes: [ja/w, ja/i]}
+- {grapheme: wu, phonemes: [ja/w, ja/u]}
+- {grapheme: we, phonemes: [ja/w, ja/e]}
+- {grapheme: wo, phonemes: [ja/w, ja/o]}
+- {grapheme: n, phonemes: [ja/N]}
+- {grapheme: t, phonemes: [cl]}
+- {grapheme: s, phonemes: [ja/s]}
+- {grapheme: sh, phonemes: [ja/sh]}
+- {grapheme: ts, phonemes: [ja/ts]}
+- {grapheme: ch, phonemes: [ja/ch]}

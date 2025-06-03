@@ -1,0 +1,48 @@
+phonemes: dsacoustic/phonemes.json
+languages: dsacoustic/languages.json
+acoustic: dsacoustic/acoustic.onnx
+dictionary: dsacoustic/dictionary.txt
+vocoder: dsvocoder
+
+hidden_size: 256
+
+use_lang_id: true
+use_key_shift_embed: true
+use_speed_embed: true
+use_energy_embed: false
+use_breathiness_embed: false
+use_voicing_embed: false
+use_tension_embed: false
+use_continuous_acceleration: true
+use_variable_depth: true
+
+max_depth: 0.6
+sample_rate: 44100
+hop_size: 512
+win_size: 2048
+fft_size: 2048
+num_mel_bins: 128
+mel_fmin: 40
+mel_fmax: 16000
+mel_base: e
+mel_scale: slaney
+
+speakers:
+  - dsacoustic/triton_gale
+  - dsacoustic/triton_deluge
+  - dsacoustic/triton_tempest
+  - dsacoustic/triton_flurry
+
+use_shallow_diffusion: true
+max_depth: 400
+
+# for GEN & VEL
+augmentation_args:
+  random_pitch_shifting:
+    range:
+    - -5.0
+    - 5.0
+  random_time_stretching:
+    range:
+    - 0.5
+    - 2.0

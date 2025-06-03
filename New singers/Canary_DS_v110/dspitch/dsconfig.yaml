@@ -1,0 +1,18 @@
+languages: files/languages.json
+phonemes: files/phonemes.json
+linguistic: files/linguistic.onnx
+pitch: files/pitch.onnx
+
+hop_size: 512
+sample_rate: 44100
+
+use_lang_id: true
+predict_dur: false
+use_note_rest: true
+use_expr: true
+use_continuous_acceleration: true
+
+speakers:
+  - files/canary_arc
+  - files/canary_spark
+  - files/canary_voltage

@@ -1,0 +1,11 @@
+name: tgm_hifigan_v110
+model: tgm_hifigan_v110.onnx
+sample_rate: 44100
+hop_size: 512
+win_size: 2048
+fft_size: 2048
+num_mel_bins: 128
+mel_fmin: 40
+mel_fmax: 16000
+mel_base: e
+mel_scale: slaney

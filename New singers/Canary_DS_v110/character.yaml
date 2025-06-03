@@ -1,0 +1,54 @@
+name: "Canary DS v110"
+localized_names:
+  en-US: "Canary DS v110"
+  jp-JP: "Canary(カナリー) DS v110"
+  ko-KO: "카네리 DS v110"
+
+author: "tigermeat"
+voice: "Mina Moonrise"
+version: "v110"
+
+# DETAILED CREDITS
+#
+# Voice Provider, Manager: MinaMoonrise
+# DiffSinger Development: tigermeat
+# Character Design Assistance: Crusher
+# Character Illustration: Angela M Chong
+
+web: "http://jaevocalproject.weebly.com/canary.html"
+
+singer_type: diffsinger
+text_file_encoding: utf-8
+
+image: "extra/icon.png"
+portrait: "extra/canary.png"
+portrait_opacity: 0.4
+
+default_phonemizer: OpenUtau.Plugin.Builtin.DiffSingerPhonemizer
+
+subbanks:
+- {color: "01 Arc", suffix: dsacoustic/canary_arc}
+- {color: "02 Spark", suffix: dsacoustic/canary_spark}
+- {color: "03 Voltage", suffix: dsacoustic/canary_voltage}
+
+# CHANGELOG
+
+# v102 - Initial Release (2/2/24)
+
+# v103 - 2/10/24
+# Changes:
+# Support for French
+# More DS Dict Support!
+# Retrained Pitch Model
+# Better Fine-Tuned Vocoder
+
+# v106
+# Changes:
+# Retrained with new "Reflow" backend for DiffSinger.
+# Added Korean XLS Support.
+
+# v107:
+# Changes:
+# Multi-Dictionary Support
+# Added Thai, Russian and PT-BR Support.
+# Vocoder updated to v107

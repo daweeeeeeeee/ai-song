@@ -1,0 +1,17 @@
+phonemes: files/phonemes.json
+languages: files/languages.json
+linguistic: files/linguistic.onnx
+dur: files/dur.onnx
+
+hop_size: 512
+sample_rate: 44100
+
+use_lang_id: true
+predict_dur: true
+predict_pitch: false
+use_expr: true
+use_note_rest: true
+use_continuous_acceleration: true
+
+speakers:
+  - files/miyo

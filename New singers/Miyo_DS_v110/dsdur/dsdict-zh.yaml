@@ -1,0 +1,1035 @@
+symbols:
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
+- {symbol: cl, type: stop}
+- {symbol: en/aa, type: vowel}
+- {symbol: en/ae, type: vowel}
+- {symbol: pt/ae, type: vowel}
+- {symbol: en/ah, type: vowel}
+- {symbol: en/ao, type: vowel}
+- {symbol: en/aw, type: vowel}
+- {symbol: fr/ee, type: vowel}
+- {symbol: zh/e, type: vowel}
+- {symbol: th/E, type: vowel}
+- {symbol: en/ax, type: vowel}
+- {symbol: en/ay, type: vowel}
+- {symbol: zh/ai, type: vowel}
+- {symbol: en/b, type: stop}
+- {symbol: zh/ch, type: stop}
+- {symbol: pt/b, type: stop}
+- {symbol: ru/b, type: stop}
+- {symbol: zh/b, type: stop}
+- {symbol: ja/ch, type: stop}
+- {symbol: fr/ch, type: stop}
+- {symbol: es/b, type: stop}
+- {symbol: ko/ch, type: stop}
+- {symbol: pt/ch, type: stop}
+- {symbol: es/ch, type: stop}
+- {symbol: ko/b, type: stop}
+- {symbol: en/ch, type: stop}
+- {symbol: ja/b, type: stop}
+- {symbol: fr/b, type: stop}
+- {symbol: en/d, type: stop}
+- {symbol: es/D, type: stop}
+- {symbol: en/dh, type: stop}
+- {symbol: en/dr, type: stop}
+- {symbol: en/dx, type: stop}
+- {symbol: fr/dx, type: stop}
+- {symbol: en/eh, type: vowel}
+- {symbol: pt/eh, type: vowel}
+- {symbol: fr/ae, type: vowel}
+- {symbol: ru/e, type: vowel}
+- {symbol: en/er, type: vowel}
+- {symbol: pt/rh, type: vowel}
+- {symbol: en/ey, type: vowel}
+- {symbol: zh/ei, type: vowel}
+- {symbol: zh/f, type: stop}
+- {symbol: ko/f, type: stop}
+- {symbol: pt/f, type: stop}
+- {symbol: es/f, type: stop}
+- {symbol: ru/f, type: stop}
+- {symbol: th/f, type: stop}
+- {symbol: en/f, type: stop}
+- {symbol: fr/f, type: stop}
+- {symbol: en/g, type: stop}
+- {symbol: ko/h, type: stop}
+- {symbol: fr/h, type: stop}
+- {symbol: ru/h, type: stop}
+- {symbol: pt/h, type: stop}
+- {symbol: en/hh, type: stop}
+- {symbol: th/h, type: stop}
+- {symbol: es/h, type: stop}
+- {symbol: ja/h, type: stop}
+- {symbol: en/ih, type: vowel}
+- {symbol: es/i, type: vowel}
+- {symbol: ru/i, type: vowel}
+- {symbol: zh/i, type: vowel}
+- {symbol: fr/ih, type: vowel}
+- {symbol: en/iy, type: vowel}
+- {symbol: th/i, type: vowel}
+- {symbol: ko/i, type: vowel}
+- {symbol: pt/i, type: vowel}
+- {symbol: ja/i, type: vowel}
+- {symbol: ko/jj, type: stop}
+- {symbol: en/jh, type: stop}
+- {symbol: pt/dj, type: stop}
+- {symbol: zh/zh, type: stop}
+- {symbol: en/k, type: stop}
+- {symbol: fr/k, type: stop}
+- {symbol: zh/k, type: stop}
+- {symbol: th/k, type: stop}
+- {symbol: ko/k, type: stop}
+- {symbol: en/l, type: liquid}
+- {symbol: ru/m, type: nasal}
+- {symbol: es/m, type: nasal}
+- {symbol: fr/m, type: nasal}
+- {symbol: pt/m, type: nasal}
+- {symbol: en/m, type: nasal}
+- {symbol: ja/m, type: nasal}
+- {symbol: th/m, type: nasal}
+- {symbol: ko/m, type: nasal}
+- {symbol: zh/m, type: nasal}
+- {symbol: th/n, type: nasal}
+- {symbol: ru/n, type: nasal}
+- {symbol: en/n, type: nasal}
+- {symbol: zh/n, type: nasal}
+- {symbol: pt/n, type: nasal}
+- {symbol: fr/n, type: nasal}
+- {symbol: es/n, type: nasal}
+- {symbol: ja/n, type: nasal}
+- {symbol: ko/n, type: nasal}
+- {symbol: th/ng, type: nasal}
+- {symbol: en/ng, type: nasal}
+- {symbol: ja/ng, type: nasal}
+- {symbol: zh/ng, type: nasal}
+- {symbol: fr/ng, type: nasal}
+- {symbol: ko/NG, type: nasal}
+- {symbol: en/nn, type: vowel}
+- {symbol: ja/N, type: vowel}
+- {symbol: en/ow, type: vowel}
+- {symbol: zh/ou, type: vowel}
+- {symbol: en/oy, type: vowel}
+- {symbol: zh/p, type: stop}
+- {symbol: en/p, type: stop}
+- {symbol: ko/p, type: stop}
+- {symbol: th/p, type: stop}
+- {symbol: es/q, type: stop}
+- {symbol: fr/q, type: stop}
+- {symbol: en/q, type: stop}
+- {symbol: fr/rh, type: liquid}
+- {symbol: en/r, type: liquid}
+- {symbol: ja/s, type: stop}
+- {symbol: ru/s, type: stop}
+- {symbol: th/s, type: stop}
+- {symbol: fr/s, type: stop}
+- {symbol: en/s, type: stop}
+- {symbol: pt/s, type: stop}
+- {symbol: ko/ss, type: stop}
+- {symbol: es/s, type: stop}
+- {symbol: zh/s, type: stop}
+- {symbol: ja/sh, type: stop}
+- {symbol: th/ch, type: stop}
+- {symbol: ru/sh, type: stop}
+- {symbol: en/sh, type: stop}
+- {symbol: fr/sh, type: stop}
+- {symbol: pt/sh, type: stop}
+- {symbol: zh/sh, type: stop}
+- {symbol: en/t, type: stop}
+- {symbol: ko/t, type: stop}
+- {symbol: zh/t, type: stop}
+- {symbol: th/t, type: stop}
+- {symbol: en/th, type: stop}
+- {symbol: es/T, type: stop}
+- {symbol: ko/th, type: stop}
+- {symbol: en/tr, type: stop}
+- {symbol: en/uh, type: vowel}
+- {symbol: en/uw, type: vowel}
+- {symbol: en/v, type: stop}
+- {symbol: pt/v, type: stop}
+- {symbol: th/v, type: stop}
+- {symbol: fr/v, type: stop}
+- {symbol: ru/v, type: stop}
+- {symbol: ja/v, type: stop}
+- {symbol: es/v, type: stop}
+- {symbol: ko/v, type: stop}
+- {symbol: en/w, type: semivowel}
+- {symbol: zh/w, type: semivowel}
+- {symbol: th/w, type: semivowel}
+- {symbol: ko/w, type: semivowel}
+- {symbol: fr/w, type: semivowel}
+- {symbol: es/w, type: semivowel}
+- {symbol: pt/w, type: semivowel}
+- {symbol: ja/w, type: semivowel}
+- {symbol: pt/y, type: semivowel}
+- {symbol: ja/y, type: semivowel}
+- {symbol: fr/y, type: semivowel}
+- {symbol: en/y, type: semivowel}
+- {symbol: zh/y, type: semivowel}
+- {symbol: ko/y, type: semivowel}
+- {symbol: th/y, type: semivowel}
+- {symbol: es/y, type: semivowel}
+- {symbol: ru/j, type: stop}
+- {symbol: ru/z, type: stop}
+- {symbol: en/z, type: stop}
+- {symbol: th/z, type: stop}
+- {symbol: ko/z, type: stop}
+- {symbol: fr/z, type: stop}
+- {symbol: pt/z, type: stop}
+- {symbol: en/zh, type: stop}
+- {symbol: ru/zh, type: stop}
+- {symbol: fr/j, type: stop}
+- {symbol: pt/j, type: stop}
+- {symbol: es/B, type: stop}
+- {symbol: pt/bv, type: stop}
+- {symbol: es/G, type: stop}
+- {symbol: pt/gv, type: stop}
+- {symbol: es/Y, type: semivowel}
+- {symbol: th/a, type: vowel}
+- {symbol: fr/ah, type: vowel}
+- {symbol: ja/a, type: vowel}
+- {symbol: ru/a, type: vowel}
+- {symbol: zh/a, type: vowel}
+- {symbol: ko/a, type: vowel}
+- {symbol: pt/a, type: vowel}
+- {symbol: es/a, type: vowel}
+- {symbol: ja/d, type: stop}
+- {symbol: fr/d, type: stop}
+- {symbol: es/d, type: stop}
+- {symbol: fr/t, type: stop}
+- {symbol: es/t, type: stop}
+- {symbol: zh/d, type: stop}
+- {symbol: ko/tt, type: stop}
+- {symbol: ru/t, type: stop}
+- {symbol: pt/t, type: stop}
+- {symbol: th/tt, type: stop}
+- {symbol: ja/t, type: stop}
+- {symbol: ja/z, type: stop}
+- {symbol: es/dz, type: stop}
+- {symbol: zh/z, type: stop}
+- {symbol: ja/e, type: vowel}
+- {symbol: es/e, type: vowel}
+- {symbol: fr/eh, type: vowel}
+- {symbol: pt/e, type: vowel}
+- {symbol: es/ee, type: vowel}
+- {symbol: es/g, type: stop}
+- {symbol: fr/g, type: stop}
+- {symbol: zh/g, type: stop}
+- {symbol: ko/g, type: stop}
+- {symbol: ja/g, type: stop}
+- {symbol: es/gl, type: stop}
+- {symbol: es/gn, type: stop}
+- {symbol: es/j, type: stop}
+- {symbol: ru/k, type: stop}
+- {symbol: th/kk, type: stop}
+- {symbol: ko/kk, type: stop}
+- {symbol: es/k, type: stop}
+- {symbol: ja/k, type: stop}
+- {symbol: pt/k, type: stop}
+- {symbol: es/l, type: liquid}
+- {symbol: es/ly, type: liquid}
+- {symbol: ru/lj, type: liquid}
+- {symbol: fr/ly, type: liquid}
+- {symbol: ru/nj, type: nasal}
+- {symbol: es/ny, type: nasal}
+- {symbol: fr/oh, type: vowel}
+- {symbol: th/o, type: vowel}
+- {symbol: ko/o, type: vowel}
+- {symbol: ja/o, type: vowel}
+- {symbol: es/o, type: vowel}
+- {symbol: ru/o, type: vowel}
+- {symbol: es/oo, type: vowel}
+- {symbol: ru/p, type: stop}
+- {symbol: th/pp, type: stop}
+- {symbol: ja/p, type: stop}
+- {symbol: ko/pp, type: stop}
+- {symbol: pt/p, type: stop}
+- {symbol: fr/p, type: stop}
+- {symbol: es/p, type: stop}
+- {symbol: ko/RR, type: liquid}
+- {symbol: pt/r, type: liquid}
+- {symbol: fr/rx, type: liquid}
+- {symbol: es/r, type: stop}
+- {symbol: ru/r, type: stop}
+- {symbol: es/rr, type: stop}
+- {symbol: fr/rr, type: stop}
+- {symbol: es/sh, type: stop}
+- {symbol: es/th, type: stop}
+- {symbol: zh/c, type: stop}
+- {symbol: ja/ts, type: stop}
+- {symbol: es/ts, type: stop}
+- {symbol: pt/u, type: vowel}
+- {symbol: es/u, type: vowel}
+- {symbol: ko/u, type: vowel}
+- {symbol: fr/ou, type: vowel}
+- {symbol: ru/u, type: vowel}
+- {symbol: zh/u, type: vowel}
+- {symbol: th/u, type: vowel}
+- {symbol: es/uu, type: vowel}
+- {symbol: es/x, type: stop}
+- {symbol: es/z, type: stop}
+- {symbol: fr/en, type: vowel}
+- {symbol: fr/in, type: vowel}
+- {symbol: fr/l, type: liquid}
+- {symbol: fr/oe, type: vowel}
+- {symbol: fr/on, type: vowel}
+- {symbol: fr/oo, type: vowel}
+- {symbol: pt/oh, type: vowel}
+- {symbol: fr/r, type: stop}
+- {symbol: zh/v, type: vowel}
+- {symbol: fr/uh, type: vowel}
+- {symbol: fr/un, type: vowel}
+- {symbol: fr/uy, type: vowel}
+- {symbol: ja/f, type: stop}
+- {symbol: ja/j, type: stop}
+- {symbol: ja/l, type: liquid}
+- {symbol: ja/r, type: stop}
+- {symbol: ko/r, type: stop}
+- {symbol: ja/u, type: vowel}
+- {symbol: ko/K, type: stop}
+- {symbol: th/K, type: stop}
+- {symbol: ko/L, type: liquid}
+- {symbol: ko/M, type: nasal}
+- {symbol: ko/N, type: nasal}
+- {symbol: th/B, type: stop}
+- {symbol: ko/P, type: stop}
+- {symbol: th/D, type: stop}
+- {symbol: ko/T, type: stop}
+- {symbol: ko/d, type: stop}
+- {symbol: ko/e, type: vowel}
+- {symbol: ko/ei, type: vowel}
+- {symbol: ko/eo, type: vowel}
+- {symbol: ko/eu, type: vowel}
+- {symbol: ko/j, type: stop}
+- {symbol: ko/l, type: liquid}
+- {symbol: ko/r1, type: liquid}
+- {symbol: ko/s, type: stop}
+- {symbol: ko/sh, type: stop}
+- {symbol: ko/w1, type: semivowel}
+- {symbol: pt/an, type: vowel}
+- {symbol: pt/ax, type: vowel}
+- {symbol: pt/d, type: stop}
+- {symbol: pt/en, type: vowel}
+- {symbol: pt/g, type: stop}
+- {symbol: pt/hr, type: stop}
+- {symbol: pt/i0, type: vowel}
+- {symbol: pt/in, type: vowel}
+- {symbol: pt/l, type: liquid}
+- {symbol: pt/lh, type: liquid}
+- {symbol: pt/ng, type: nasal}
+- {symbol: pt/nh, type: nasal}
+- {symbol: pt/o, type: vowel}
+- {symbol: pt/on, type: vowel}
+- {symbol: pt/rr, type: stop}
+- {symbol: pt/rw, type: liquid}
+- {symbol: pt/u0, type: vowel}
+- {symbol: pt/un, type: vowel}
+- {symbol: pt/x, type: stop}
+- {symbol: ru/A, type: vowel}
+- {symbol: ru/E, type: vowel}
+- {symbol: ru/N, type: nasal}
+- {symbol: ru/Y, type: vowel}
+- {symbol: ru/bj, type: stop}
+- {symbol: ru/c, type: stop}
+- {symbol: ru/ch, type: stop}
+- {symbol: ru/d, type: stop}
+- {symbol: ru/dj, type: stop}
+- {symbol: ru/fj, type: stop}
+- {symbol: ru/g, type: stop}
+- {symbol: ru/gj, type: stop}
+- {symbol: ru/hh, type: stop}
+- {symbol: ru/hj, type: stop}
+- {symbol: ru/kj, type: stop}
+- {symbol: ru/l, type: liquid}
+- {symbol: ru/mj, type: nasal}
+- {symbol: ru/pj, type: stop}
+- {symbol: ru/rj, type: stop}
+- {symbol: ru/shj, type: stop}
+- {symbol: ru/sj, type: stop}
+- {symbol: ru/tj, type: stop}
+- {symbol: ru/vj, type: stop}
+- {symbol: ru/y, type: vowel}
+- {symbol: ru/zj, type: stop}
+- {symbol: th/A, type: vowel}
+- {symbol: th/I, type: vowel}
+- {symbol: th/O, type: vowel}
+- {symbol: th/U, type: vowel}
+- {symbol: th/Ua, type: vowel}
+- {symbol: th/W, type: semivowel}
+- {symbol: zh/U, type: semivowel}
+- {symbol: zh/I, type: semivowel}
+- {symbol: th/Y, type: semivowel}
+- {symbol: th/ao, type: vowel}
+- {symbol: th/b, type: stop}
+- {symbol: th/d, type: stop}
+- {symbol: th/e, type: vowel}
+- {symbol: th/ia, type: vowel}
+- {symbol: th/j, type: stop}
+- {symbol: th/l, type: liquid}
+- {symbol: th/r, type: liquid}
+- {symbol: th/ua, type: vowel}
+- {symbol: vf, type: stop}
+- {symbol: zh/N, type: nasal}
+- {symbol: zh/ao, type: vowel}
+- {symbol: zh/er, type: vowel}
+- {symbol: zh/h, type: stop}
+- {symbol: zh/iE, type: vowel}
+- {symbol: zh/ia, type: vowel}
+- {symbol: zh/io, type: vowel}
+- {symbol: zh/ir, type: vowel}
+- {symbol: zh/iz, type: vowel}
+- {symbol: zh/j, type: stop}
+- {symbol: zh/l, type: liquid}
+- {symbol: zh/o, type: vowel}
+- {symbol: zh/q, type: stop}
+- {symbol: zh/r, type: liquid}
+- {symbol: zh/uE, type: vowel}
+- {symbol: zh/ua, type: vowel}
+- {symbol: zh/ue, type: vowel}
+- {symbol: zh/uo, type: vowel}
+- {symbol: zh/vE, type: vowel}
+- {symbol: zh/x, type: stop}
+- {symbol: de/a, type: vowel}
+- {symbol: de/eh, type: vowel}
+- {symbol: de/e, type: vowel}
+- {symbol: de/ih, type: vowel}
+- {symbol: de/i, type: vowel}
+- {symbol: de/oh, type: vowel}
+- {symbol: de/o, type: vowel}
+- {symbol: de/oe, type: vowel}
+- {symbol: de/oeh, type: vowel}
+- {symbol: de/uh, type: vowel}
+- {symbol: de/u, type: vowel}
+- {symbol: de/ueh, type: vowel}
+- {symbol: de/ue, type: vowel}
+- {symbol: de/ex, type: vowel}
+- {symbol: de/er, type: vowel}
+- {symbol: de/au, type: vowel}
+- {symbol: de/ei, type: vowel}
+- {symbol: de/eu, type: vowel}
+- {symbol: de/j, type: semivowel}
+- {symbol: de/l, type: liquid}
+- {symbol: de/m, type: nasal}
+- {symbol: de/n, type: nasal}
+- {symbol: de/ng, type: nasal}
+- {symbol: de/b, type: stop}
+- {symbol: de/d, type: stop}
+- {symbol: de/g, type: stop}
+- {symbol: de/p, type: stop}
+- {symbol: de/t, type: stop}
+- {symbol: de/ts, type: stop}
+- {symbol: de/k, type: stop}
+- {symbol: de/v, type: stop}
+- {symbol: de/z, type: stop}
+- {symbol: de/r, type: stop}
+- {symbol: de/f, type: stop}
+- {symbol: de/s, type: stop}
+- {symbol: de/sh, type: stop}
+- {symbol: de/h, type: stop}
+- {symbol: de/xh, type: stop}
+- {symbol: de/tsh, type: stop}
+- {symbol: de/dsh, type: stop}
+- {symbol: de/rr, type: stop}
+- {symbol: de/rx, type: stop}
+- {symbol: de/ch, type: stop}
+- {symbol: de/q, type: stop}
+- {symbol: de/w, type: semivowel}
+- {symbol: de/rh, type: stop}
+- {symbol: de/dh, type: stop}
+- {symbol: de/zh, type: stop}
+- {symbol: en/oh, type: vowel}
+entries:
+- {grapheme: "R", phonemes: [SP]}
+- {grapheme: "-", phonemes: [SP]}
+- {grapheme: "br", phonemes: [AP]}
+- {grapheme: 'vf', phonemes: [vf]}
+- {grapheme: a, phonemes: [zh/a]}
+- {grapheme: ai, phonemes: [zh/ai]}
+- {grapheme: ang, phonemes: [zh/a, zh/ng]}
+- {grapheme: ao, phonemes: [zh/ao]}
+- {grapheme: an, phonemes: [zh/a, zh/N]}
+- {grapheme: ba, phonemes: [zh/b, zh/a]}
+- {grapheme: bai, phonemes: [zh/b, zh/ai]}
+- {grapheme: ban, phonemes: [zh/b, zh/a, zh/N]}
+- {grapheme: bang, phonemes: [zh/b, zh/a, zh/ng]}
+- {grapheme: bao, phonemes: [zh/b, zh/ao]}
+- {grapheme: be, phonemes: [zh/b, zh/e]}
+- {grapheme: bei, phonemes: [zh/b, zh/ei]}
+- {grapheme: ben, phonemes: [zh/b, zh/e, zh/N]}
+- {grapheme: beng, phonemes: [zh/b, zh/e, zh/ng]}
+- {grapheme: bi, phonemes: [zh/b, zh/i]}
+- {grapheme: bia, phonemes: [zh/b, zh/ia]}
+- {grapheme: bian, phonemes: [zh/b, zh/iE, zh/N]}
+- {grapheme: biang, phonemes: [zh/b, zh/ia, zh/ng]}
+- {grapheme: biao, phonemes: [zh/b, zh/ia, zh/U]}
+- {grapheme: bie, phonemes: [zh/b, zh/iE]}
+- {grapheme: bin, phonemes: [zh/b, zh/i, zh/N]}
+- {grapheme: bing, phonemes: [zh/b, zh/i, zh/ng]}
+- {grapheme: biong, phonemes: [zh/b, zh/io, zh/ng]}
+- {grapheme: biu, phonemes: [zh/b, zh/io, zh/U]}
+- {grapheme: bo, phonemes: [zh/b, zh/o]}
+- {grapheme: bong, phonemes: [zh/b, zh/o, zh/ng]}
+- {grapheme: bou, phonemes: [zh/b, zh/ou]}
+- {grapheme: bu, phonemes: [zh/b, zh/u]}
+- {grapheme: buan, phonemes: [zh/b, zh/ua, zh/N]}
+- {grapheme: buang, phonemes: [zh/b, zh/ua, zh/ng]}
+- {grapheme: bui, phonemes: [zh/b, zh/uE, zh/y]}
+- {grapheme: bun, phonemes: [zh/b, zh/ue, zh/N]}
+- {grapheme: bv, phonemes: [zh/b, zh/v]}
+- {grapheme: bve, phonemes: [zh/b, zh/vE]}
+- {grapheme: ca, phonemes: [zh/c, zh/a]}
+- {grapheme: cai, phonemes: [zh/c, zh/ai]}
+- {grapheme: can, phonemes: [zh/c, zh/a, zh/N]}
+- {grapheme: cang, phonemes: [zh/c, zh/a, zh/ng]}
+- {grapheme: cao, phonemes: [zh/c, zh/ao]}
+- {grapheme: ce, phonemes: [zh/c, zh/e]}
+- {grapheme: cei, phonemes: [zh/c, zh/ei]}
+- {grapheme: cen, phonemes: [zh/c, zh/e, zh/N]}
+- {grapheme: ceng, phonemes: [zh/c, zh/e, zh/ng]}
+- {grapheme: cha, phonemes: [zh/ch, zh/a]}
+- {grapheme: chai, phonemes: [zh/ch, zh/ai]}
+- {grapheme: chan, phonemes: [zh/ch, zh/a, zh/N]}
+- {grapheme: chang, phonemes: [zh/ch, zh/a, zh/ng]}
+- {grapheme: chao, phonemes: [zh/ch, zh/ao]}
+- {grapheme: che,  phonemes: [zh/ch, zh/e]}
+- {grapheme: chei, phonemes: [zh/ch, zh/ei]}
+- {grapheme: chen, phonemes: [zh/ch, zh/e, zh/N]}
+- {grapheme: cheng, phonemes: [zh/ch, zh/e, zh/ng]}
+- {grapheme: chi, phonemes: [zh/ch, zh/ir]}
+- {grapheme: chong, phonemes: [zh/ch, zh/o, zh/ng]}
+- {grapheme: chou, phonemes: [zh/ch, zh/ou]}
+- {grapheme: chu, phonemes: [zh/ch, zh/u]}
+- {grapheme: chua, phonemes: [zh/ch, zh/ua]}
+- {grapheme: chuai, phonemes: [zh/ch, zh/ua, zh/I]}
+- {grapheme: chuan, phonemes: [zh/ch, zh/ua, zh/N]}
+- {grapheme: chuang, phonemes: [zh/ch, zh/ua, zh/ng]}
+- {grapheme: chui, phonemes: [zh/ch, zh/uE, zh/y]}
+- {grapheme: chun, phonemes: [zh/ch, zh/ue, zh/N]}
+- {grapheme: chuo, phonemes: [zh/ch, zh/uo]}
+- {grapheme: chv, phonemes: [zh/ch, zh/v]}
+- {grapheme: chyi, phonemes: [zh/ch, zh/i]}
+- {grapheme: ci, phonemes: [zh/c, zh/iz]}
+- {grapheme: cua, phonemes: [zh/c, zh/ua]}
+- {grapheme: cuai, phonemes: [zh/c, zh/ua, zh/I]}
+- {grapheme: cuan, phonemes: [zh/c, zh/ua, zh/N]}
+- {grapheme: cuang, phonemes: [zh/c, zh/ua, zh/ng]}
+- {grapheme: cui, phonemes: [zh/c, zh/uE, zh/y]}
+- {grapheme: cun, phonemes: [zh/c, zh/ue, zh/N]}
+- {grapheme: cuo, phonemes: [zh/c, zh/uo]}
+- {grapheme: cv, phonemes: [zh/c, zh/v]}
+- {grapheme: cyi, phonemes: [zh/c, zh/i]}
+- {grapheme: da, phonemes: [zh/d, zh/a]}
+- {grapheme: dai, phonemes: [zh/d, zh/ai]}
+- {grapheme: dan, phonemes: [zh/d, zh/a, zh/N]}
+- {grapheme: dang, phonemes: [zh/d, zh/a, zh/ng]}
+- {grapheme: dao, phonemes: [zh/d, zh/ao]}
+- {grapheme: de, phonemes: [zh/d, zh/e]}
+- {grapheme: dei, phonemes: [zh/d, zh/ei]}
+- {grapheme: den, phonemes: [zh/d, zh/e, zh/N]}
+- {grapheme: deng, phonemes: [zh/d, zh/e, zh/ng]}
+- {grapheme: di, phonemes: [zh/d, zh/i]}
+- {grapheme: dia, phonemes: [zh/d, zh/ia]}
+- {grapheme: dian, phonemes: [zh/d, zh/iE, zh/N]}
+- {grapheme: diang, phonemes: [zh/d, zh/ia, zh/ng]}
+- {grapheme: diao, phonemes: [zh/d, zh/ia, zh/U]}
+- {grapheme: die, phonemes: [zh/d, zh/iE]}
+- {grapheme: din, phonemes: [zh/d, zh/i, zh/N]}
+- {grapheme: ding, phonemes: [zh/d, zh/i, zh/ng]}
+- {grapheme: diong, phonemes: [zh/d, zh/io, zh/ng]}
+- {grapheme: diu, phonemes: [zh/d, zh/io, zh/U]}
+- {grapheme: dong, phonemes: [zh/d, zh/o, zh/ng]}
+- {grapheme: dou, phonemes: [zh/d, zh/ou]}
+- {grapheme: du, phonemes: [zh/d, zh/u]}
+- {grapheme: dua, phonemes: [zh/d, zh/ua]}
+- {grapheme: duai, phonemes: [zh/d, zh/ua, zh/I]}
+- {grapheme: duan, phonemes: [zh/d, zh/ua, zh/N]}
+- {grapheme: duang, phonemes: [zh/d, zh/ua, zh/ng]}
+- {grapheme: dui, phonemes: [zh/d, zh/uE, zh/y]}
+- {grapheme: dun, phonemes: [zh/d, zh/ue, zh/N]}
+- {grapheme: duo, phonemes: [zh/d, zh/uo]}
+- {grapheme: dv, phonemes: [zh/d, zh/v]}
+- {grapheme: dve, phonemes: [zh/d, zh/vE]}
+- {grapheme: e, phonemes: [zh/e]}
+- {grapheme: ei, phonemes: [zh/ei]}
+- {grapheme: en, phonemes: [zh/e, zh/N]}
+- {grapheme: eng, phonemes: [zh/e, zh/ng]}
+- {grapheme: er, phonemes: [zh/er]}
+- {grapheme: fa, phonemes: [zh/f, zh/a]}
+- {grapheme: fai, phonemes: [zh/f, zh/ai]}
+- {grapheme: fan, phonemes: [zh/f, zh/a, zh/N]}
+- {grapheme: fang, phonemes: [zh/f, zh/a, zh/ng]}
+- {grapheme: fao, phonemes: [zh/f, zh/ao]}
+- {grapheme: fe, phonemes: [zh/f, zh/e]}
+- {grapheme: fei, phonemes: [zh/f, zh/ei]}
+- {grapheme: fen, phonemes: [zh/f, zh/e, zh/N]}
+- {grapheme: feng, phonemes: [zh/f, zh/e, zh/ng]}
+- {grapheme: fer, phonemes: [zh/f, zh/er]}
+- {grapheme: fi, phonemes: [zh/f, zh/i]}
+- {grapheme: fia, phonemes: [zh/f, zh/ia]}
+- {grapheme: fian, phonemes: [zh/f, zh/iE, zh/N]}
+- {grapheme: fiang, phonemes: [zh/f, zh/ia, zh/ng]}
+- {grapheme: fiao, phonemes: [zh/f, zh/ia, zh/U]}
+- {grapheme: fie, phonemes: [zh/f, zh/iE]}
+- {grapheme: fin, phonemes: [zh/f, zh/i, zh/N]}
+- {grapheme: fing, phonemes: [zh/f, zh/i, zh/ng]}
+- {grapheme: fiong, phonemes: [zh/f, zh/io, zh/ng]}
+- {grapheme: fiu, phonemes: [zh/f, zh/io, zh/U]}
+- {grapheme: fo, phonemes: [zh/f, zh/o]}
+- {grapheme: fong, phonemes: [zh/f, zh/o, zh/ng]}
+- {grapheme: fou, phonemes: [zh/f, zh/ou]}
+- {grapheme: fu, phonemes: [zh/f, zh/u]}
+- {grapheme: fua, phonemes: [zh/f, zh/ua]}
+- {grapheme: fuai, phonemes: [zh/f, zh/ua, zh/I]}
+- {grapheme: fuan, phonemes: [zh/f, zh/ua, zh/N]}
+- {grapheme: fuang, phonemes: [zh/f, zh/ua, zh/ng]}
+- {grapheme: fui, phonemes: [zh/f, zh/uE, zh/y]}
+- {grapheme: fun, phonemes: [zh/f, zh/ue, zh/N]}
+- {grapheme: fv, phonemes: [zh/f, zh/v]}
+- {grapheme: fve, phonemes: [zh/f, zh/vE]}
+- {grapheme: ga, phonemes: [zh/g, zh/a]}
+- {grapheme: gai, phonemes: [zh/g, zh/ai]}
+- {grapheme: gan, phonemes: [zh/g, zh/a, zh/N]}
+- {grapheme: gang, phonemes: [zh/g, zh/a, zh/ng]}
+- {grapheme: gao, phonemes: [zh/g, zh/ao]}
+- {grapheme: ge, phonemes: [zh/g, zh/e]}
+- {grapheme: gei, phonemes: [zh/g, zh/ei]}
+- {grapheme: gen, phonemes: [zh/g, zh/e, zh/N]}
+- {grapheme: geng, phonemes: [zh/g, zh/e, zh/ng]}
+- {grapheme: ger, phonemes: [zh/g, zh/er]}
+- {grapheme: gi, phonemes: [zh/g, zh/i]}
+- {grapheme: gia, phonemes: [zh/g, zh/ia]}
+- {grapheme: gian, phonemes: [zh/g, zh/ia, zh/N]}
+- {grapheme: giang, phonemes: [zh/g, zh/ia, zh/ng]}
+- {grapheme: giao, phonemes: [zh/g, zh/ia, zh/U]}
+- {grapheme: gie, phonemes: [zh/g, zh/iE]}
+- {grapheme: gin, phonemes: [zh/g, zh/i, zh/N]}
+- {grapheme: ging, phonemes: [zh/g, zh/i, zh/ng]}
+- {grapheme: giong, phonemes: [zh/g, zh/io, zh/ng]}
+- {grapheme: giu, phonemes: [zh/g, zh/io, zh/U]}
+- {grapheme: gong, phonemes: [zh/g, zh/o, zh/ng]}
+- {grapheme: gou, phonemes: [zh/g, zh/ou]}
+- {grapheme: gu, phonemes: [zh/g, zh/u]}
+- {grapheme: gua, phonemes: [zh/g, zh/ua]}
+- {grapheme: guai, phonemes: [zh/g, zh/ua, zh/I]}
+- {grapheme: guan, phonemes: [zh/g, zh/ua, zh/N]}
+- {grapheme: guang, phonemes: [zh/g, zh/ua, zh/ng]}
+- {grapheme: gui, phonemes: [zh/g, zh/uE, zh/y]}
+- {grapheme: gun, phonemes: [zh/g, zh/ue, zh/N]}
+- {grapheme: guo, phonemes: [zh/g, zh/uo]}
+- {grapheme: gv, phonemes: [zh/g, zh/v]}
+- {grapheme: gve, phonemes: [zh/g, zh/vE]}
+- {grapheme: ha, phonemes: [zh/h, zh/a]}
+- {grapheme: hai, phonemes: [zh/h, zh/ai]}
+- {grapheme: han, phonemes: [zh/h, zh/a, zh/N]}
+- {grapheme: hang, phonemes: [zh/h, zh/a, zh/ng]}
+- {grapheme: hao, phonemes: [zh/h, zh/ao]}
+- {grapheme: he, phonemes: [zh/h, zh/e]}
+- {grapheme: hei, phonemes: [zh/h, zh/ei]}
+- {grapheme: hen, phonemes: [zh/h, zh/e, zh/N]}
+- {grapheme: heng, phonemes: [zh/h, zh/e, zh/ng]}
+- {grapheme: her, phonemes: [zh/h, zh/er]}
+- {grapheme: hi, phonemes: [zh/h, zh/i]}
+- {grapheme: hia, phonemes: [zh/h, zh/ia]}
+- {grapheme: hian, phonemes: [zh/h, zh/iE, zh/N]}
+- {grapheme: hiang, phonemes: [zh/h, zh/ia, zh/ng]}
+- {grapheme: hiao, phonemes: [zh/h, zh/ia, zh/U]}
+- {grapheme: hie, phonemes: [zh/h, zh/iE]}
+- {grapheme: hin, phonemes: [zh/h, zh/i, zh/N]}
+- {grapheme: hing, phonemes: [zh/h, zh/i, zh/ng]}
+- {grapheme: hiong, phonemes: [zh/h, zh/io, zh/ng]}
+- {grapheme: hiu, phonemes: [zh/h, zh/io, zh/U]}
+- {grapheme: hong, phonemes: [zh/h, zh/o, zh/ng]}
+- {grapheme: hou, phonemes: [zh/h, zh/ou]}
+- {grapheme: hu, phonemes: [zh/h, zh/u]}
+- {grapheme: hua, phonemes: [zh/h, zh/ua]}
+- {grapheme: huai, phonemes: [zh/h, zh/ua, zh/I]}
+- {grapheme: huan, phonemes: [zh/h, zh/ua, zh/N]}
+- {grapheme: huang, phonemes: [zh/h, zh/ua, zh/ng]}
+- {grapheme: hui, phonemes: [zh/h, zh/uE, zh/y]}
+- {grapheme: hun, phonemes: [zh/h, zh/ue, zh/N]}
+- {grapheme: huo, phonemes: [zh/h, zh/uo]}
+- {grapheme: hv, phonemes: [zh/h, zh/v]}
+- {grapheme: hve, phonemes: [zh/h, zh/vE]}
+- {grapheme: ji, phonemes: [zh/j, zh/i]}
+- {grapheme: jia, phonemes: [zh/j, zh/ia]}
+- {grapheme: jian, phonemes: [zh/j, zh/iE, zh/N]}
+- {grapheme: jiang, phonemes: [zh/j, zh/ia, zh/ng]}
+- {grapheme: jiao, phonemes: [zh/j, zh/ia, zh/U]}
+- {grapheme: jie, phonemes: [zh/j, zh/iE]}
+- {grapheme: jin, phonemes: [zh/j, zh/i, zh/N]}
+- {grapheme: jing, phonemes: [zh/j, zh/i, zh/ng]}
+- {grapheme: jiong, phonemes: [zh/j, zh/io, zh/ng]}
+- {grapheme: jiu, phonemes: [zh/j, zh/io, zh/U]}
+- {grapheme: ju, phonemes: [zh/j, zh/v]}
+- {grapheme: juan, phonemes: [zh/j, zh/vE, zh/N]}
+- {grapheme: jue, phonemes: [zh/j, zh/vE]}
+- {grapheme: jun, phonemes: [zh/j, zh/v, zh/N]}
+- {grapheme: ka, phonemes: [zh/k, zh/a]}
+- {grapheme: kai, phonemes: [zh/k, zh/ai]}
+- {grapheme: kan, phonemes: [zh/k, zh/a, zh/N]}
+- {grapheme: kang, phonemes: [zh/k, zh/a, zh/ng]}
+- {grapheme: kao, phonemes: [zh/k, zh/ao]}
+- {grapheme: ke, phonemes: [zh/k, zh/e]}
+- {grapheme: kei, phonemes: [zh/k, zh/ei]}
+- {grapheme: ken, phonemes: [zh/k, zh/e, zh/N]}
+- {grapheme: keng, phonemes: [zh/k, zh/e, zh/ng]}
+- {grapheme: ker, phonemes: [zh/k, zh/er]}
+- {grapheme: ki, phonemes: [zh/k, zh/i]}
+- {grapheme: kia, phonemes: [zh/k, zh/ia]}
+- {grapheme: kian, phonemes: [zh/k, zh/iE, zh/N]}
+- {grapheme: kiang, phonemes: [zh/k, zh/ia, zh/ng]}
+- {grapheme: kiao, phonemes: [zh/k, zh/ia, zh/U]}
+- {grapheme: kie, phonemes: [zh/k, zh/iE]}
+- {grapheme: kin, phonemes: [zh/k, zh/i, zh/N]}
+- {grapheme: king, phonemes: [zh/k, zh/i, zh/ng]}
+- {grapheme: kiong, phonemes: [zh/k, zh/io, zh/ng]}
+- {grapheme: kiu, phonemes: [zh/k, zh/io, zh/U]}
+- {grapheme: kong, phonemes: [zh/k, zh/o, zh/ng]}
+- {grapheme: kou, phonemes: [zh/k, zh/ou]}
+- {grapheme: ku, phonemes: [zh/k, zh/u]}
+- {grapheme: kua, phonemes: [zh/k, zh/ua]}
+- {grapheme: kuai, phonemes: [zh/k, zh/ua, zh/I]}
+- {grapheme: kuan, phonemes: [zh/k, zh/ua, zh/N]}
+- {grapheme: kuang, phonemes: [zh/k, zh/ua, zh/ng]}
+- {grapheme: kui, phonemes: [zh/k, zh/uE, zh/y]}
+- {grapheme: kun, phonemes: [zh/k, zh/ue, zh/N]}
+- {grapheme: kuo, phonemes: [zh/k, zh/uo]}
+- {grapheme: kv, phonemes: [zh/k, zh/v]}
+- {grapheme: kve, phonemes: [zh/k, zh/vE]}
+- {grapheme: la, phonemes: [zh/l, zh/a]}
+- {grapheme: lai, phonemes: [zh/l, zh/ai]}
+- {grapheme: lan, phonemes: [zh/l, zh/a, zh/N]}
+- {grapheme: lang, phonemes: [zh/l, zh/a, zh/ng]}
+- {grapheme: lao, phonemes: [zh/l, zh/ao]}
+- {grapheme: le, phonemes: [zh/l, zh/e]}
+- {grapheme: lei, phonemes: [zh/l, zh/ei]}
+- {grapheme: len, phonemes: [zh/l, zh/e, zh/N]}
+- {grapheme: leng, phonemes: [zh/l, zh/e, zh/N]}
+- {grapheme: ler, phonemes: [zh/l, zh/er]}
+- {grapheme: li, phonemes: [zh/l, zh/i]}
+- {grapheme: lia, phonemes: [zh/l, zh/ia]}
+- {grapheme: lian, phonemes: [zh/l, zh/iE, zh/N]}
+- {grapheme: liang, phonemes: [zh/l, zh/ia, zh/ng]}
+- {grapheme: liao, phonemes: [zh/l, zh/ia, zh/U]}
+- {grapheme: lie, phonemes: [zh/l, zh/iE]}
+- {grapheme: lin, phonemes: [zh/l, zh/i, zh/N]}
+- {grapheme: ling, phonemes: [zh/l, zh/i, zh/ng]}
+- {grapheme: liong, phonemes: [zh/l, zh/io, zh/ng]}
+- {grapheme: liu, phonemes: [zh/l, zh/io, zh/U]}
+- {grapheme: lo, phonemes: [zh/l, zh/o]}
+- {grapheme: long, phonemes: [zh/l, zh/o, zh/ng]}
+- {grapheme: lou, phonemes: [zh/l, zh/ou]}
+- {grapheme: lu, phonemes: [zh/l, zh/u]}
+- {grapheme: lua, phonemes: [zh/l, zh/ua]}
+- {grapheme: luai, phonemes: [zh/l, zh/ua, zh/I]}
+- {grapheme: luan, phonemes: [zh/l, zh/ua, zh/N]}
+- {grapheme: luang, phonemes: [zh/l, zh/ua, zh/ng]}
+- {grapheme: lui, phonemes: [zh/l, zh/uE, zh/y]}
+- {grapheme: lun, phonemes: [zh/l, zh/ue, zh/N]}
+- {grapheme: luo, phonemes: [zh/l, zh/uo]}
+- {grapheme: lv, phonemes: [zh/l, zh/v]}
+- {grapheme: lve, phonemes: [zh/l, zh/vE]}
+- {grapheme: ma, phonemes: [zh/m, zh/a]}
+- {grapheme: mai, phonemes: [zh/m, zh/ai]}
+- {grapheme: man, phonemes: [zh/m, zh/a, zh/N]}
+- {grapheme: mang, phonemes: [zh/m, zh/a, zh/ng]}
+- {grapheme: mao, phonemes: [zh/m, zh/ao]}
+- {grapheme: me, phonemes: [zh/m, zh/e]}
+- {grapheme: mei, phonemes: [zh/m, zh/ei]}
+- {grapheme: men, phonemes: [zh/m, zh/e, zh/N]}
+- {grapheme: meng, phonemes: [zh/m, zh/e, zh/ng]}
+- {grapheme: mer, phonemes: [zh/m, zh/er]}
+- {grapheme: mi, phonemes: [zh/m, zh/i]}
+- {grapheme: mia, phonemes: [zh/m, zh/ia]}
+- {grapheme: mian, phonemes: [zh/m, zh/iE, zh/N]}
+- {grapheme: miang, phonemes: [zh/m, zh/ia, zh/ng]}
+- {grapheme: miao, phonemes: [zh/m, zh/ia, zh/U]}
+- {grapheme: mie, phonemes: [zh/m, zh/iE]}
+- {grapheme: min, phonemes: [zh/m, zh/i, zh/N]}
+- {grapheme: ming, phonemes: [zh/m, zh/i, zh/ng]}
+- {grapheme: miong, phonemes: [zh/m, zh/io, zh/ng]}
+- {grapheme: miu, phonemes: [zh/m, zh/io, zh/U]}
+- {grapheme: mo, phonemes: [zh/m, zh/o]}
+- {grapheme: mong, phonemes: [zh/m, zh/o, zh/ng]}
+- {grapheme: mou, phonemes: [zh/m, zh/ou]}
+- {grapheme: mu, phonemes: [zh/m, zh/u]}
+- {grapheme: mua, phonemes: [zh/m, zh/ua]}
+- {grapheme: muai, phonemes: [zh/m, zh/ua, zh/I]}
+- {grapheme: muan, phonemes: [zh/m, zh/ua, zh/N]}
+- {grapheme: muang, phonemes: [zh/m, zh/ua, zh/ng]}
+- {grapheme: mui, phonemes: [zh/m, zh/uE, zh/y]}
+- {grapheme: mv, phonemes: [zh/m, zh/v]}
+- {grapheme: mve, phonemes: [zh/m, zh/vE]}
+- {grapheme: na, phonemes: [zh/n, zh/a]}
+- {grapheme: nai, phonemes: [zh/n, zh/ai]}
+- {grapheme: nan, phonemes: [zh/n, zh/a, zh/N]}
+- {grapheme: nang, phonemes: [zh/n, zh/a, zh/ng]}
+- {grapheme: nao, phonemes: [zh/n, zh/ao]}
+- {grapheme: ne, phonemes: [zh/n, zh/e]}
+- {grapheme: nei, phonemes: [zh/n, zh/ei]}
+- {grapheme: nen, phonemes: [zh/n, zh/e, zh/N]}
+- {grapheme: neng, phonemes: [zh/n, zh/e, zh/ng]}
+- {grapheme: ner, phonemes: [zh/n, zh/er]}
+- {grapheme: ni, phonemes: [zh/n, zh/i]}
+- {grapheme: nia, phonemes: [zh/n, zh/ia]}
+- {grapheme: nian, phonemes: [zh/n, zh/iE, zh/N]}
+- {grapheme: niang, phonemes: [zh/n, zh/ia, zh/ng]}
+- {grapheme: niao, phonemes: [zh/n, zh/ia, zh/U]}
+- {grapheme: nie, phonemes: [zh/n, zh/iE]}
+- {grapheme: nin, phonemes: [zh/n, zh/i, zh/N]}
+- {grapheme: ning, phonemes: [zh/n, zh/i, zh/ng]}
+- {grapheme: niong, phonemes: [zh/n, zh/io, zh/ng]}
+- {grapheme: niu, phonemes: [zh/n, zh/io, zh/U]}
+- {grapheme: nong, phonemes: [zh/n, zh/o, zh/ng]}
+- {grapheme: nou, phonemes: [zh/n, zh/ou]}
+- {grapheme: nu, phonemes: [zh/n, zh/u]}
+- {grapheme: nua, phonemes: [zh/n, zh/ua]}
+- {grapheme: nuai, phonemes: [zh/n, zh/ua, zh/I]}
+- {grapheme: nuan, phonemes: [zh/n, zh/ua, zh/N]}
+- {grapheme: nuang, phonemes: [zh/n, zh/ua, zh/ng]}
+- {grapheme: nui, phonemes: [zh/n, zh/uE, zh/y]}
+- {grapheme: nun, phonemes: [zh/n, zh/ue, zh/N]}
+- {grapheme: nuo, phonemes: [zh/n, zh/uo]}
+- {grapheme: nv, phonemes: [zh/n, zh/v]}
+- {grapheme: nve, phonemes: [zh/n, zh/vE]}
+- {grapheme: o, phonemes: [zh/o]}
+- {grapheme: ong, phonemes: [zh/o, zh/ng]}
+- {grapheme: ou, phonemes: [zh/ou]}
+- {grapheme: pa, phonemes: [zh/p, zh/a]}
+- {grapheme: pai, phonemes: [zh/p, zh/ai]}
+- {grapheme: pan, phonemes: [zh/p, zh/a, zh/N]}
+- {grapheme: pang, phonemes: [zh/p, zh/a, zh/ng]}
+- {grapheme: pao, phonemes: [zh/p, zh/ao]}
+- {grapheme: pe, phonemes: [zh/p, zh/e]}
+- {grapheme: pei, phonemes: [zh/p, zh/ei]}
+- {grapheme: pen, phonemes: [zh/p, zh/e, zh/N]}
+- {grapheme: peng, phonemes: [zh/p, zh/e, zh/ng]}
+- {grapheme: per, phonemes: [zh/p, zh/er]}
+- {grapheme: pi, phonemes: [zh/p, zh/i]}
+- {grapheme: pia, phonemes: [zh/p, zh/ia]}
+- {grapheme: pian, phonemes: [zh/p, zh/iE, zh/N]}
+- {grapheme: piang, phonemes: [zh/p, zh/ia, zh/ng]}
+- {grapheme: piao, phonemes: [zh/p, zh/ia, zh/U]}
+- {grapheme: pie, phonemes: [zh/p, zh/iE]}
+- {grapheme: pin, phonemes: [zh/p, zh/i, zh/N]}
+- {grapheme: ping, phonemes: [zh/p, zh/i, zh/ng]}
+- {grapheme: piong, phonemes: [zh/p, zh/io, zh/ng]}
+- {grapheme: piu, phonemes: [zh/p, zh/io, zh/U]}
+- {grapheme: po, phonemes: [zh/p, zh/o]}
+- {grapheme: pong, phonemes: [zh/p, zh/o, zh/ng]}
+- {grapheme: pou, phonemes: [zh/p, zh/ou]}
+- {grapheme: pu, phonemes: [zh/p, zh/u]}
+- {grapheme: pua, phonemes: [zh/p, zh/ua]}
+- {grapheme: puai, phonemes: [zh/p, zh/ua, zh/I]}
+- {grapheme: puan, phonemes: [zh/p, zh/ua, zh/N]}
+- {grapheme: puang, phonemes: [zh/p, zh/ua, zh/ng]}
+- {grapheme: pui, phonemes: [zh/p, zh/uE, zh/y]}
+- {grapheme: pun, phonemes: [zh/p, zh/ue, zh/N]}
+- {grapheme: pv, phonemes: [zh/p, zh/v]}
+- {grapheme: pve, phonemes: [zh/p, zh/vE]}
+- {grapheme: qi, phonemes: [zh/q, zh/i]}
+- {grapheme: qia, phonemes: [zh/q, zh/ia]}
+- {grapheme: qian, phonemes: [zh/q, zh/iE, zh/N]}
+- {grapheme: qiang, phonemes: [zh/q, zh/ia, zh/ng]}
+- {grapheme: qiao, phonemes: [zh/q, zh/ia, zh/U]}
+- {grapheme: qie, phonemes: [zh/q, zh/iE]}
+- {grapheme: qin, phonemes: [zh/q, zh/i, zh/N]}
+- {grapheme: qing, phonemes: [zh/q, zh/i, zh/ng]}
+- {grapheme: qiong, phonemes: [zh/q, zh/io, zh/ng]}
+- {grapheme: qiu, phonemes: [zh/q, zh/io, zh/U]}
+- {grapheme: qu, phonemes: [zh/q, zh/v]}
+- {grapheme: quan, phonemes: [zh/q, zh/vE, zh/N]}
+- {grapheme: que, phonemes: [zh/q, zh/vE]}
+- {grapheme: qun, phonemes: [zh/q, zh/v, zh/N]}
+- {grapheme: ra, phonemes: [zh/r, zh/a]}
+- {grapheme: rai, phonemes: [zh/r, zh/ai]}
+- {grapheme: ran, phonemes: [zh/r, zh/a, zh/N]}
+- {grapheme: rang, phonemes: [zh/r, zh/a, zh/ng]}
+- {grapheme: rao, phonemes: [zh/r, zh/ao]}
+- {grapheme: re, phonemes: [zh/r, zh/e]}
+- {grapheme: rei, phonemes: [zh/r, zh/ei]}
+- {grapheme: ren, phonemes: [zh/r, zh/e, zh/N]}
+- {grapheme: reng, phonemes: [zh/r, zh/e, zh/ng]}
+- {grapheme: rer, phonemes: [zh/r, zh/er]}
+- {grapheme: ri, phonemes: [zh/r, zh/ir]}
+- {grapheme: rong, phonemes: [zh/r, zh/o, zh/ng]}
+- {grapheme: rou, phonemes: [zh/r, zh/ou]}
+- {grapheme: ru, phonemes: [zh/r, zh/u]}
+- {grapheme: rua, phonemes: [zh/r, zh/ua]}
+- {grapheme: ruai, phonemes: [zh/r, zh/ua, zh/I]}
+- {grapheme: ruan, phonemes: [zh/r, zh/ua, zh/N]}
+- {grapheme: ruang, phonemes: [zh/r, zh/ua, zh/ng]}
+- {grapheme: rui, phonemes: [zh/r, zh/uE, zh/y]}
+- {grapheme: run, phonemes: [zh/r, zh/ue, zh/N]}
+- {grapheme: ruo, phonemes: [zh/r, zh/uo]}
+- {grapheme: rv, phonemes: [zh/r, zh/v]}
+- {grapheme: ryi, phonemes: [zh/r, zh/i]}
+- {grapheme: sa, phonemes: [zh/s, zh/a]}
+- {grapheme: sai, phonemes: [zh/s, zh/ai]}
+- {grapheme: san, phonemes: [zh/s, zh/a, zh/N]}
+- {grapheme: sang, phonemes: [zh/s, zh/a, zh/ng]}
+- {grapheme: sao, phonemes: [zh/s, zh/ao]}
+- {grapheme: se, phonemes: [zh/s, zh/e]}
+- {grapheme: sei, phonemes: [zh/s, zh/ei]}
+- {grapheme: sen, phonemes: [zh/s, zh/e, zh/N]}
+- {grapheme: seng, phonemes: [zh/s, zh/e, zh/ng]}
+- {grapheme: ser, phonemes: [zh/s, zh/er]}
+- {grapheme: sha, phonemes: [zh/sh, zh/a]}
+- {grapheme: shai, phonemes: [zh/sh, zh/ai]}
+- {grapheme: shan, phonemes: [zh/sh, zh/a, zh/N]}
+- {grapheme: shang, phonemes: [zh/sh, zh/a, zh/ng]}
+- {grapheme: shao, phonemes: [zh/sh, zh/ao]}
+- {grapheme: she, phonemes: [zh/sh, zh/e]}
+- {grapheme: shei, phonemes: [zh/sh, zh/ei]}
+- {grapheme: shen, phonemes: [zh/sh, zh/e, zh/N]}
+- {grapheme: sheng, phonemes: [zh/sh, zh/e, zh/ng]}
+- {grapheme: sher, phonemes: [zh/sh, zh/er]}
+- {grapheme: shi, phonemes: [zh/sh, zh/ir]}
+- {grapheme: shong, phonemes: [zh/sh, zh/o, zh/ng]}
+- {grapheme: shou, phonemes: [zh/sh, zh/ou]}
+- {grapheme: shu, phonemes: [zh/sh, zh/u]}
+- {grapheme: shua, phonemes: [zh/sh, zh/ua]}
+- {grapheme: shuai, phonemes: [zh/sh, zh/ua, zh/I]}
+- {grapheme: shuan, phonemes: [zh/sh, zh/ua, zh/N]}
+- {grapheme: shuang, phonemes: [zh/sh, zh/ua, zh/ng]}
+- {grapheme: shui, phonemes: [zh/sh, zh/uE, zh/y]}
+- {grapheme: shun, phonemes: [zh/sh, zh/ue, zh/N]}
+- {grapheme: shuo, phonemes: [zh/sh, zh/uo]}
+- {grapheme: shv, phonemes: [zh/sh, zh/v]}
+- {grapheme: shve, phonemes: [zh/sh, zh/vE]}
+- {grapheme: shyi, phonemes: [zh/sh, zh/i]}
+- {grapheme: si, phonemes: [zh/s, zh/iz]}
+- {grapheme: song, phonemes: [zh/s, zh/o, zh/ng]}
+- {grapheme: sou, phonemes: [zh/s, zh/ou]}
+- {grapheme: su, phonemes: [zh/s, zh/u]}
+- {grapheme: sua, phonemes: [zh/s, zh/ua]}
+- {grapheme: suai, phonemes: [zh/s, zh/ua, zh/I]}
+- {grapheme: suan, phonemes: [zh/s, zh/ua, zh/N]}
+- {grapheme: suang, phonemes: [zh/s, zh/ua, zh/ng]}
+- {grapheme: sui, phonemes: [zh/s, zh/uE, zh/y]}
+- {grapheme: sun, phonemes: [zh/s, zh/ue, zh/N]}
+- {grapheme: suo, phonemes: [zh/s, zh/uo]}
+- {grapheme: sv, phonemes: [zh/s, zh/v]}
+- {grapheme: syi, phonemes: [zh/s, zh/i]}
+- {grapheme: ta, phonemes: [zh/t, zh/a]}
+- {grapheme: tai, phonemes: [zh/t, zh/ai]}
+- {grapheme: tan, phonemes: [zh/t, zh/a, zh/N]}
+- {grapheme: tang, phonemes: [zh/t, zh/a, zh/ng]}
+- {grapheme: tao, phonemes: [zh/t, zh/ao]}
+- {grapheme: te, phonemes: [zh/t, zh/e]}
+- {grapheme: tei, phonemes: [zh/t, zh/ei]}
+- {grapheme: ten, phonemes: [zh/t, zh/e, zh/N]}
+- {grapheme: teng, phonemes: [zh/t, zh/e, zh/ng]}
+- {grapheme: ter, phonemes: [zh/t, zh/er]}
+- {grapheme: ti, phonemes: [zh/t, zh/i]}
+- {grapheme: tia, phonemes: [zh/t, zh/ia]}
+- {grapheme: tian, phonemes: [zh/t, zh/iE, zh/N]}
+- {grapheme: tiang, phonemes: [zh/t, zh/ia, zh/ng]}
+- {grapheme: tiao, phonemes: [zh/t, zh/ia, zh/U]}
+- {grapheme: tie, phonemes: [zh/t, zh/iE]}
+- {grapheme: tin, phonemes: [zh/t, zh/i, zh/N]}
+- {grapheme: ting, phonemes: [zh/t, zh/i, zh/ng]}
+- {grapheme: tiong, phonemes: [zh/t, zh/io, zh/ng]}
+- {grapheme: tong, phonemes: [zh/t, zh/o, zh/ng]}
+- {grapheme: tou, phonemes: [zh/t, zh/ou]}
+- {grapheme: tu, phonemes: [zh/t, zh/u]}
+- {grapheme: tua, phonemes: [zh/t, zh/ua]}
+- {grapheme: tuai, phonemes: [zh/t, zh/ua, zh/I]}
+- {grapheme: tuan, phonemes: [zh/t, zh/ua, zh/N]}
+- {grapheme: tuang, phonemes: [zh/t, zh/ua, zh/ng]}
+- {grapheme: tui, phonemes: [zh/t, zh/uE, zh/y]}
+- {grapheme: tun, phonemes: [zh/t, zh/ue, zh/N]}
+- {grapheme: tuo, phonemes: [zh/t, zh/uo]}
+- {grapheme: tv, phonemes: [zh/t, zh/v]}
+- {grapheme: tve, phonemes: [zh/t, zh/vE]}
+- {grapheme: wa, phonemes: [zh/w, zh/a]}
+- {grapheme: wai, phonemes: [zh/w, zh/ai]}
+- {grapheme: wan, phonemes: [zh/w, zh/a, zh/N]}
+- {grapheme: wang, phonemes: [zh/w, zh/a, zh/ng]}
+- {grapheme: wao, phonemes: [zh/w, zh/ao]}
+- {grapheme: we, phonemes: [zh/w, zh/e]}
+- {grapheme: wei, phonemes: [zh/w, zh/ei]}
+- {grapheme: wen, phonemes: [zh/w, zh/e, zh/N]}
+- {grapheme: weng, phonemes: [zh/w, zh/e, zh/ng]}
+- {grapheme: wer, phonemes: [zh/w, zh/er]}
+- {grapheme: wi, phonemes: [zh/w, zh/i]}
+- {grapheme: wo, phonemes: [zh/w, zh/uo]}
+- {grapheme: wong, phonemes: [zh/w, zh/o, zh/ng]}
+- {grapheme: wou, phonemes: [zh/w, zh/ou]}
+- {grapheme: wu, phonemes: [zh/w, zh/u]}
+- {grapheme: xi, phonemes: [zh/x, zh/i]}
+- {grapheme: xia, phonemes: [zh/x, zh/ia]}
+- {grapheme: xian, phonemes: [zh/x, zh/iE, zh/N]}
+- {grapheme: xiang, phonemes: [zh/x, zh/ia, zh/ng]}
+- {grapheme: xiao, phonemes: [zh/x, zh/ia, zh/U]}
+- {grapheme: xie, phonemes: [zh/x, zh/iE]}
+- {grapheme: xin, phonemes: [zh/x, zh/i, zh/N]}
+- {grapheme: xing, phonemes: [zh/x, zh/i, zh/ng]}
+- {grapheme: xiong, phonemes: [zh/x, zh/io, zh/ng]}
+- {grapheme: xiu, phonemes: [zh/x, zh/io, zh/U]}
+- {grapheme: xu, phonemes: [zh/x, zh/v]}
+- {grapheme: xuan, phonemes: [zh/x, zh/vE, zh/N]}
+- {grapheme: xue, phonemes: [zh/x, zh/vE]}
+- {grapheme: xun, phonemes: [zh/x, zh/v, zh/N]}
+- {grapheme: ya, phonemes: [zh/y, zh/a]}
+- {grapheme: yai, phonemes: [zh/y, zh/ai]}
+- {grapheme: yan, phonemes: [zh/y, zh/iE, zh/N]}
+- {grapheme: yang, phonemes: [zh/y, zh/a, zh/ng]}
+- {grapheme: yao, phonemes: [zh/y, zh/ia, zh/U]}
+- {grapheme: ye, phonemes: [zh/y, zh/iE]}
+- {grapheme: yei, phonemes: [zh/y, zh/ei]}
+- {grapheme: yi, phonemes: [zh/y, zh/i]}
+- {grapheme: yin, phonemes: [zh/y, zh/i, zh/N]}
+- {grapheme: ying, phonemes: [zh/y, zh/i, zh/ng]}
+- {grapheme: yo, phonemes: [zh/y, zh/o]}
+- {grapheme: yong, phonemes: [zh/y, zh/io, zh/ng]}
+- {grapheme: you, phonemes: [zh/y, zh/io, zh/U]}
+- {grapheme: yu, phonemes: [zh/y, zh/v]}
+- {grapheme: yuan, phonemes: [zh/y, zh/vE, zh/N]}
+- {grapheme: yue, phonemes: [zh/y, zh/vE]}
+- {grapheme: yun, phonemes: [zh/y, zh/v, zh/N]}
+- {grapheme: ywu, phonemes: [zh/y, zh/u]}
+- {grapheme: za, phonemes: [zh/z, zh/a]}
+- {grapheme: zai, phonemes: [zh/z, zh/ai]}
+- {grapheme: zang, phonemes: [zh/z, zh/a, zh/ng]}
+- {grapheme: zao, phonemes: [zh/z, zh/ao]}
+- {grapheme: ze, phonemes: [zh/z, zh/e]}
+- {grapheme: zei, phonemes: [zh/z, zh/ei]}
+- {grapheme: zen, phonemes: [zh/z, zh/e, zh/N]}
+- {grapheme: zeng, phonemes: [zh/z, zh/e, zh/ng]}
+- {grapheme: zer, phonemes: [zh/z, zh/er]}
+- {grapheme: zha, phonemes: [zh/zh, zh/a]}
+- {grapheme: zhai, phonemes: [zh/zh, zh/ai]}
+- {grapheme: zhan, phonemes: [zh/zh, zh/a, zh/N]}
+- {grapheme: zhang, phonemes: [zh/zh, zh/a, zh/ng]}
+- {grapheme: zhao, phonemes: [zh/zh, zh/ao]}
+- {grapheme: zhe, phonemes: [zh/zh, zh/e]}
+- {grapheme: zhei, phonemes: [zh/zh, zh/ei]}
+- {grapheme: zhen, phonemes: [zh/zh, zh/e, zh/N]}
+- {grapheme: zheng, phonemes: [zh/zh, zh/e, zh/ng]}
+- {grapheme: zher, phonemes: [zh/zh, zh/er]}
+- {grapheme: zhi, phonemes: [zh/zh, zh/ir]}
+- {grapheme: zhong, phonemes: [zh/zh, zh/o, zh/ng]}
+- {grapheme: zhou, phonemes: [zh/zh, zh/ou]}
+- {grapheme: zhu, phonemes: [zh/zh, zh/u]}
+- {grapheme: zhua, phonemes: [zh/zh, zh/ua]}
+- {grapheme: zhuai, phonemes: [zh/zh, zh/ua, zh/I]}
+- {grapheme: zhuan, phonemes: [zh/zh, zh/ua, zh/N]}
+- {grapheme: zhuang, phonemes: [zh/zh, zh/ua, zh/ng]}
+- {grapheme: zhui, phonemes: [zh/zh, zh/uE, zh/y]}
+- {grapheme: zhun, phonemes: [zh/zh, zh/ue, zh/N]}
+- {grapheme: zhuo, phonemes: [zh/zh, zh/uo]}
+- {grapheme: zhv, phonemes: [zh/zh, zh/v]}
+- {grapheme: zhyi, phonemes: [zh/zh, zh/i]}
+- {grapheme: zi, phonemes: [zh/z, zh/iz]}
+- {grapheme: zong, phonemes: [zh/z, zh/o, zh/ng]}
+- {grapheme: zou, phonemes: [zh/z, zh/ou]}
+- {grapheme: zu, phonemes: [zh/z, zh/u]}
+- {grapheme: zua, phonemes: [zh/z, zh/ua]}
+- {grapheme: zuai, phonemes: [zh/z, zh/ua, zh/I]}
+- {grapheme: zuan, phonemes: [zh/z, zh/ua, zh/N]}
+- {grapheme: zuang, phonemes: [zh/z, zh/ua, zh/ng]}
+- {grapheme: zui, phonemes: [zh/z, zh/uE, zh/y]}
+- {grapheme: zun, phonemes: [zh/z, zh/ue, zh/N]}
+- {grapheme: zuo, phonemes: [zh/z, zh/uo]}
+- {grapheme: zv, phonemes: [zh/z, zh/v]}
+- {grapheme: zyi, phonemes: [zh/z, zh/i]}

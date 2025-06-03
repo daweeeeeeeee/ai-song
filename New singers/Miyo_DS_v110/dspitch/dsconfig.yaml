@@ -1,0 +1,17 @@
+phonemes: files/phonemes.json
+languages: files/languages.json
+linguistic: files/linguistic.onnx
+pitch: files/pitch.onnx
+
+hop_size: 512
+sample_rate: 44100
+
+# for melody encoder
+use_lang_id: true
+predict_dur: false
+use_note_rest: true
+use_expr: true
+use_continuous_acceleration: true
+
+speakers:
+  - files/miyo

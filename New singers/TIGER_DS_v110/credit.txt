@@ -1,0 +1,10 @@
+This voice library is trained alongside the following corpora:
+
+- Millefeuille (https://utaufrance.com/millefeuille-diffsinger/)
+- Tiny Italian Spanish Dataset (https://github.com/gnloop/Tiny-Italian-Spanish-Dataset)
+- PJS Corpus (https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus)
+	- Labels by UtaUtaUtau, edited by tigermeat
+- team.coda support data
+- Small Parts of M4Singer (https://m4singer.github.io/)
+- PrinttoTH Dataset
+- BRAPA Private Dataset

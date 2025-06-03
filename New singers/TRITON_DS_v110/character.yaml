@@ -1,0 +1,26 @@
+name: "TRITON DS v110"
+localized_names:
+  en-US: "TRITON DS v110"
+  jp-JP: "トライトン DS v110"
+  zh-TW: "炫鱼(TRITON) DS v110"
+
+author: "tigermeat"
+voice: "Ryan M."
+version: "v110"
+
+web: "https://tigermeat.xyz/#triton-ds"
+
+singer_type: diffsinger
+text_file_encoding: utf-8
+
+image: "extra/images/icon.png"
+portrait: "extra/images/TRITON_fullbody.png"
+portrait_opacity: 0.4
+
+default_phonemizer: OpenUtau.Plugin.Builtin.DiffSingerPhonemizer
+
+subbanks:
+- {color: "01 Gale", suffix: dsacoustic/triton_gale}
+- {color: "02 Deluge", suffix: dsacoustic/triton_deluge}
+- {color: "03 Tempest", suffix: dsacoustic/triton_tempest}
+- {color: "04 Flurry", suffix: dsacoustic/triton_flurry}

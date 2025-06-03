@@ -1,0 +1,76 @@
+name: "TIGER DS v110"
+
+author: "tigermeat"
+voice: "tigermeat"
+version: "v110"
+
+web: "https://tigermeat.xyz/#tiger-ds"
+
+singer_type: diffsinger
+text_file_encoding: utf-8
+
+image: "extra/images/icon.png"
+portrait: "extra/images/tiger.png"
+portrait_opacity: 0.4
+
+default_phonemizer: OpenUtau.Plugin.Builtin.DiffSingerPhonemizer
+
+subbanks:
+- {color: '01 Fresh', suffix: dsacoustic/tiger_fresh} # pitch model: standard
+- {color: '02 Disco', suffix: dsacoustic/tiger_disco} # pitch model: soft
+- {color: '03 Electric', suffix: dsacoustic/tiger_electric} # pitch model: power
+- {color: '04 Vinyl', suffix: dsacoustic/tiger_vinyl} # pitch model: standard
+- {color: '05 Mystic', suffix: dsacoustic/tiger_mystic} # pitch model: soft
+- {color: '06 Glam', suffix: dsacoustic/tiger_glam} # pitch model: power
+- {color: '07 Royal', suffix: dsacoustic/tiger_royal} # pitch model: standard
+
+# TGM is trained alongside the following corpora:
+# Millefeuille (UFR)
+# TISD (gianloop)
+# PJS
+# Kitane Sno Korean Database
+
+# changelog
+# b03 "Initial Release" - 11/24/2023
+
+# b08 - 12/12/2023
+# changes:
+# added Mystic/Falsetto voice modes.
+# voice modes actually work now!
+# removed redundancies in configurations
+# duration + acoustic model are trained a bit longer than before
+# all training is from scratch now :)
+# same pitch model as b03
+# swapped around some file locations, etc.
+
+# v100 - 12/something/23
+# changes:
+# newly trained pitch model, which is much more stable!
+# I consider it the first full TIGER model hence version name change
+
+# v101 - 12/28/23 > release 1/13/24 for no specific reason
+# changes:
+# same as v100, but the acoustic model has been retrained on
+# different hyper parameters, providing higher quality output.
+
+# v102 - 1/22/24
+# changes:
+# Removed Chinese voice mode for the time being
+# Retrained Acoustic model on standard hyper parameters.
+# Better XLS Support for Japanese and Spanish
+# Updated, super good auto-pitch tuning model.
+
+# v103 - 2/6/24
+# changes:
+# Removed "Cetera" voicemode
+# Added "Glam" voicemode
+# Renamed "Falsetto" voicemode to "Royal"
+# Added support for French!
+# Reconfigured pitch models, tiger now has 3 instead of 1
+# Added dsdict's for french, chinese mandarin and portuguese.
+# Currently, only french is 100% supported, but more to come.
+
+# v106 - 4/23/24
+# changes:
+# retrained with the new "reflow" backend
+# added Korean support fully!

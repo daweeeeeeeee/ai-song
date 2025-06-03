@@ -1,0 +1,25 @@
+name: "Miyo DS v110"
+
+author: "tigermeat & ShiWeiMigi"
+voice: "ShiWeiMigi"
+version: "v110"
+
+web: "https://tigermeat.xyz/#miyo-ds"
+
+singer_type: diffsinger
+text_file_encoding: utf-8
+
+image: "extra/images/miyo_ico.bmp"
+portrait: "extra/images/miyo_standing.png"
+portrait_opacity: 0.4
+
+default_phonemizer: OpenUtau.Plugin.Builtin.DiffSingerPhonemizer
+
+subbanks:
+- {color: 'miyo', suffix: dsacoustic/miyo}
+# TGM is trained alongside the following corpora:
+# Millefeuille (UFR)
+# TISD (gianloop)
+# PJS
+# Team CODA Korean DB
+# Lunai Project

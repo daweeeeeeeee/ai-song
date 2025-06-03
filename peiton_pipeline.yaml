@@ -1,0 +1,22 @@
+# peiton_pipeline.yaml
+# Placera denna fil i roten av DiffSinger-ONNX-Infer-main/
+
+base_config:
+  # 1) Original DiffSinger‐pipeline
+  - usr/configs/popcs_ds_beta6.yaml
+  - usr/configs/midi/cascade/opencs/opencpop_statis.yaml
+
+  # 2) Peiton pitch‐modell
+  - ../peiton_ds_1.5_beta/dspitch/dsconfig.yaml
+
+  # 3) Peiton duration‐modell
+  - ../peiton_ds_1.5_beta/dsdur/dsconfig.yaml
+
+  # 4) Peiton variance‐modell
+  - ../peiton_ds_1.5_beta/dsvariance/dsconfig.yaml
+
+  # 5) Peiton acoustic/TTS‐modell
+  - ../peiton_ds_1.5_beta/dsconfig.yaml
+
+  # 6) Peiton vocoder
+  - ../peiton_ds_1.5_beta/dsvocoder/vocoder.yaml
