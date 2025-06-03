@@ -20,3 +20,4 @@ ipy_infer.run()
 
 `main.ipynb` is a jupter notebook project backup to run on
 [![Baidu AI Studio](https://img.shields.io/static/v1?label=Baidu&message=AI%20Studio%20V100&color=blue)](https://aistudio.baidu.com/aistudio/projectdetail/4596296).
+# ai-song
