@@ -9,4 +9,5 @@ New[[:space:]]singers/Miyo_DS_v110/dspitch/files/pitch.onnx filter=lfs diff=lfs 
 model/fs2.onnx filter=lfs diff=lfs merge=lfs -text
 model/model[[:space:]]2/fs2.onnx filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
+*.zip   filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
