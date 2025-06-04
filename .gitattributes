@@ -1,2 +1,12 @@
+New[[:space:]]singers/TIGER_DS_v110/dsacoustic/acoustic.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/TIGER_DS_v110/dspitch/files/pitch.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/TRITON_DS_v110/dsacoustic/acoustic.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/TRITON_DS_v110/dspitch/files/pitch.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/Canary_DS_v110/dsacoustic/acoustic.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/Canary_DS_v110/dspitch/files/pitch.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/Miyo_DS_v110/dsacoustic/acoustic.onnx filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]singers/Miyo_DS_v110/dspitch/files/pitch.onnx filter=lfs diff=lfs merge=lfs -text
+model/fs2.onnx filter=lfs diff=lfs merge=lfs -text
+model/model[[:space:]]2/fs2.onnx filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
